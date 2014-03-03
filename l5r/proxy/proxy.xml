@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<templates>
+  <blocks>
+	<block type="text" id="cardtitle">
+		<location x="134" y="24"/>
+		<text color="#000000" size="24" font="Fonts/title_values.ttf" />
+		<wordwrap height="34" width="202" align="center"/>
+	</block>
+	<block type="overlay" id="moncrab" src="proxy/moncrab.jpg">
+		<location x="84" y="16" />
+	</block>
+	<block type="overlay" id="moncrane" src="proxy/moncrane.jpg">
+		<location x="84" y="16" />
+	</block>
+	<block type="overlay" id="mondragon" src="proxy/mondragon.jpg">
+		<location x="84" y="16" />
+	</block>
+	<block type="overlay" id="monimperial" src="proxy/monimperial.jpg">
+		<location x="84" y="12" />
+	</block>
+	<block type="overlay" id="monlion" src="proxy/monlion.jpg">
+		<location x="84" y="18" />
+	</block>
+	<block type="overlay" id="monmantis" src="proxy/monmantis.jpg">
+		<location x="84" y="16" />
+	</block>
+	<block type="overlay" id="monphoenix" src="proxy/monphoenix.jpg">
+		<location x="84" y="15" />
+	</block>
+	<block type="overlay" id="monscorpion" src="proxy/monscorpion.jpg">
+		<location x="84" y="16" />
+	</block>
+	<block type="overlay" id="monspider" src="proxy/monspider.jpg">
+		<location x="84" y="17" />
+	</block>
+	<block type="overlay" id="monunicorn" src="proxy/monunicorn.jpg">
+		<location x="84" y="16" />
+	</block>
+	<block type="text" id="force">
+		<location x="34" y="18" />
+		<text color="#ffffff" size="42" font="Fonts/title_values.ttf" />
+		<wordwrap height="42" width="28" align="center" />
+	</block>
+	<block type="text" id="chi">
+		<location x="367" y="18" />
+		<text color="#ffffff" size="42" font="Fonts/title_values.ttf" />
+		<wordwrap height="42" width="28" align="center" />
+	</block>
+	<block type="text" id="honorreq">
+		<location x="142" y="338" />
+		<text color="#000000" size="31" font="Fonts/title_values.ttf" />
+		<wordwrap height="26" width="26" align="center" />
+	</block>
+	<block type="text" id="goldcost">
+		<location x="200" y="338" />
+		<text color="#000000" size="31" font="Fonts/title_values.ttf" />
+		<wordwrap height="26" width="26" align="center" />
+	</block>
+	<block type="text" id="pershonor">
+		<location x="262" y="338" />
+		<text color="#000000" size="31" font="Fonts/title_values.ttf" />
+		<wordwrap height="26" width="26" align="center" />
+	</block>
+	<block type="text" id="textbox">
+		<location x="53" y="414" />
+		<text color="#000000" size="15" font="Fonts/description.ttf" />
+		<wordwrap height="152" width="322" />
+	</block>
+	<block type="text" id="provstrength">
+		<location x="350" y="99" />
+		<text color="#ffffff" size="40" font="Fonts/title_values.ttf" />
+		<wordwrap height="40" width="36" />
+	</block>
+	<block type="text" id="goldprod">
+		<location x="350" y="172" />
+		<text color="#000000" size="40" font="Fonts/title_values.ttf" />
+		<wordwrap height="40" width="36" />
+	</block>
+	<block type="text" id="starthonor">
+		<location x="350" y="245" />
+		<text color="#000000" size="40" font="Fonts/title_values.ttf" />
+		<wordwrap height="40" width="36" />
+	</block>
+	<block type="text" id="focusvalue">
+		<location x="203" y="547" />
+		<text color="#ffffff" size="26" font="Fonts/title_values.ttf" />
+		<wordwrap height="32" width="32" />
+	</block>
+	<block type="overlay" id="dummy" src="proxy/dummy.png">
+		<location x="0" y="0" />
+	</block>
+  </blocks>
+  <template src="proxy/personality.jpg" default="True">
+	<matches>
+		<match name="Card Type" value="Personality" />
+		<match name="Card Type" value="Token" />
+	</matches>
+	<overlayblocks>
+		<conditional>
+			<if property="Clan" value="Lion">
+				<link block="monlion" />
+			</if>
+		</conditional>
+		<conditional>
+			<if property="Clan" value="Crane">
+				<link block="moncrane" />
+			</if>
+		</conditional>
+		<conditional>
+			<if property="Clan" value="Phoenix">
+				<link block="monphoenix" />
+			</if>
+		</conditional>
+		<conditional>
+			<if property="Clan" value="Scorpion">
+				<link block="monscorpion" />
+			</if>
+		</conditional>
+		<conditional>
+			<if property="Clan" value="Spider">
+				<link block="monspider" />
+			</if>
+		</conditional>
+		<conditional>
+			<if property="Clan" value="Crab">
+				<link block="moncrab" />
+			</if>
+		</conditional>
+		<conditional>
+			<if property="Clan" value="Unicorn">
+				<link block="monunicorn" />
+			</if>
+		</conditional>
+		<conditional>
+			<if property="Clan" value="Imperial">
+				<link block="monimperial" />
+			</if>
+		</conditional>
+		<conditional>
+			<if property="Clan" value="Mantis">
+				<link block="monmantis" />
+			</if>
+		</conditional>
+		<conditional>
+			<if property="Clan" value="Dragon">
+				<link block="mondragon" />
+			</if>
+		</conditional>
+		<link block="dummy" />
+	</overlayblocks>
+	<textblocks>
+		<link block="cardtitle">
+			<property name="Name" />
+		</link>
+		<link block="force">
+			<property name="Force" />
+		</link>
+		<link block="chi">
+			<property name="Chi" />
+		</link>
+		<link block="honorreq">
+			<property name="Min Family Honor to Recruit" />
+		</link>
+		<link block="goldcost">
+			<property name="Gold Cost" />
+		</link>
+		<link block="pershonor">
+			<property name="Personal Honor" />
+		</link>
+		<link block="textbox">
+			<property name="Text Box" />
+		</link>
+	</textblocks>
+  </template>
+  <template src="proxy/celestial.jpg" default="False">
+	<matches>
+		<match name="Card Type" value="Celestial" />
+	</matches>
+	<textblocks>
+		<link block="cardtitle">
+			<property name="Name" />
+		</link>
+		<link block="textbox">
+			<property name="Text Box" />
+		</link>
+		</textblocks>
+  </template>
+  <template src="proxy/event.jpg" default="False">
+	<matches>
+		<match name="Card Type" value="Event" />
+	</matches>
+	<textblocks>
+		<link block="cardtitle">
+			<property name="Name" />
+		</link>
+		<link block="textbox">
+			<property name="Text Box" />
+		</link>
+	</textblocks>
+  </template>
+  <template src="proxy/followers.jpg" default="False">
+	<matches>
+		<match name="Card Type" value="Follower" />
+	</matches>
+	<textblocks>
+		<link block="cardtitle">
+			<property name="Name" />
+		</link>
+		<link block="force">
+			<property name="Force" />
+		</link>
+		<link block="chi">
+			<property name="Chi" />
+		</link>
+		<link block="honorreq">
+			<property name="Min Family Honor to Recruit" />
+		</link>
+		<link block="goldcost">
+			<property name="Gold Cost" />
+		</link>
+		<link block="pershonor">
+			<property name="Personal Honor" />
+		</link>
+		<link block="textbox">
+			<property name="Text Box" />
+		</link>
+		<link block="focusvalue">
+			<property name="Focus" />
+		</link>
+	</textblocks>
+  </template>
+  <template src="proxy/holding.jpg" default="False">
+	<matches>
+		<match name="Card Type" value="Holding" />
+	</matches>
+	<textblocks>
+		<link block="cardtitle">
+			<property name="Name" />
+		</link>
+		<link block="goldcost">
+			<property name="Gold Cost" />
+		</link>
+		<link block="textbox">
+			<property name="Text Box" />
+		</link>
+	</textblocks>
+  </template>
+  <template src="proxy/item.jpg" default="False">
+	<matches>
+		<match name="Card Type" value="Item" />
+	</matches>
+	<textblocks>
+		<link block="cardtitle">
+			<property name="Name" />
+		</link>
+		<link block="force">
+			<property name="Force" />
+		</link>
+		<link block="chi">
+			<property name="Chi" />
+		</link>
+		<link block="goldcost">
+			<property name="Gold Cost" />
+		</link>
+		<link block="textbox">
+			<property name="Text Box" />
+		</link>
+		<link block="focusvalue">
+			<property name="Focus" />
+		</link>
+	</textblocks>
+  </template>
+  <template src="proxy/region.jpg" default="False">
+	<matches>
+		<match name="Card Type" value="Region" />
+	</matches>
+	<textblocks>
+		<link block="cardtitle">
+			<property name="Name"/>
+		</link>
+		<link block="textbox">
+			<property name="Text Box" />
+		</link>
+	</textblocks>
+  </template>
+  <template src="proxy/ring.jpg" default="False">
+	<matches>
+		<match name="Card Type" value="Ring" />
+	</matches>
+	<textblocks>
+		<link block="cardtitle">
+			<property name="Name" />
+		</link>
+		<link block="textbox">
+			<property name="Text Box" />
+		</link>
+		<link block="focusvalue">
+			<property name="Focus" />
+		</link>
+	</textblocks>
+  </template>
+  <template src="proxy/spell.jpg" default="False">
+	<matches>
+		<match name="Card Type" value="Spell" />
+	</matches>
+	<textblocks>
+		<link block="cardtitle">
+			<property name="Name" />
+		</link>
+		<link block="goldcost">
+			<property name="Gold Cost" />
+		</link>
+		<link block="textbox">
+			<property name="Text Box" />
+		</link>
+		<link block="focusvalue">
+			<property name="Focus" />
+		</link>
+	</textblocks>
+  </template>
+  <template src="proxy/strategy.jpg" default="False">
+	<matches>
+		<match name="Card Type" value="Strategy" />
+	</matches>
+	<textblocks>
+		<link block="cardtitle">
+			<property name="Name" />
+		</link>
+		<link block="goldcost">
+			<property name="Gold Cost" />
+		</link>
+		<link block="textbox">
+			<property name="Text Box" />
+		</link>
+		<link block="focusvalue">
+			<property name="Focus" />
+		</link>
+	</textblocks>
+  </template>
+  <template src="proxy/stronghold.jpg" default="False">
+	<matches>
+		<match name="Card Type" value="Stronghold" />
+	</matches>
+	<textblocks>
+		<link block="cardtitle">
+			<property name="Name" />
+		</link>
+		<link block="provstrength">
+			<property name="Strength of Province" />
+		</link>
+		<link block="goldprod">
+			<property name="Gold Production" />
+		</link>
+		<link block="starthonor">
+			<property name="Starting Family Honor" />
+		</link>
+		<link block="textbox">
+			<property name="Text Box" />
+		</link>
+	</textblocks>
+  </template>
+</templates>

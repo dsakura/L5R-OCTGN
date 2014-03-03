@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="1e2d5eef-7039-48b1-9060-bf6222416a3e">
+  <section name="Fate Deck">
+    <card qty="2" id="658d1955-c22c-438d-b325-875e642fe052">Genji's Students</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148175">Kaiu House Guard</card>
+    <card qty="3" id="70544260-9ee4-4596-99f3-a4a33e148405">Veteran Skirmishers</card>
+    <card qty="2" id="70544260-9ee4-4596-99f3-a4a33e148407">Village Guardian</card>
+    <card qty="3" id="70544260-9ee4-4596-99f3-a4a33e148320">Spiked Tetsubo</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148271">Ring of Earth</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148274">Ring of Water</card>
+    <card qty="3" id="70544260-9ee4-4596-99f3-a4a33e148035">Back to the Front</card>
+    <card qty="3" id="70544260-9ee4-4596-99f3-a4a33e148055">Blind Rage</card>
+    <card qty="3" id="658d1955-c22c-438d-b325-875e642fe027">Control the Board</card>
+    <card qty="2" id="70544260-9ee4-4596-99f3-a4a33e148108">Face of Ninube</card>
+    <card qty="2" id="70544260-9ee4-4596-99f3-a4a33e148109">Fall Back!</card>
+    <card qty="2" id="70544260-9ee4-4596-99f3-a4a33e148121">Fortitude</card>
+    <card qty="2" id="70544260-9ee4-4596-99f3-a4a33e148136">Hard Pressed</card>
+    <card qty="3" id="70544260-9ee4-4596-99f3-a4a33e148161">Incapacitated</card>
+    <card qty="2" id="c4610da5-9d8d-4f74-ba5a-94639cab3099">Redoubled Attack</card>
+    <card qty="3" id="70544260-9ee4-4596-99f3-a4a33e148351">The Duty of the Crab</card>
+    <card qty="2" id="c4610da5-9d8d-4f74-ba5a-94639cab3140">Tireless Efforts</card>
+  </section>
+  <section name="Dynasty Deck">
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148146">Hida's Guidance</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148094">Delayed Arrival</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148013">Akodo's Grave</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148112">Family Library</card>
+    <card qty="3" id="70544260-9ee4-4596-99f3-a4a33e148165">Iron Mine</card>
+    <card qty="3" id="70544260-9ee4-4596-99f3-a4a33e148202">Large Farm</card>
+    <card qty="3" id="70544260-9ee4-4596-99f3-a4a33e148312">Small Farm</card>
+    <card qty="3" id="70544260-9ee4-4596-99f3-a4a33e148259">Prosperous Village</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148260">Public Records</card>
+    <card qty="3" id="70544260-9ee4-4596-99f3-a4a33e148140">Hida Bushotsu</card>
+    <card qty="3" id="70544260-9ee4-4596-99f3-a4a33e148141">Hida Horu</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148142">Hida Kisada</card>
+    <card qty="3" id="c4610da5-9d8d-4f74-ba5a-94639cab3053">Hida Mimori</card>
+    <card qty="3" id="70544260-9ee4-4596-99f3-a4a33e148144">Hida Takeuchi</card>
+    <card qty="3" id="658d1955-c22c-438d-b325-875e642fe058">Hida Yamadera</card>
+    <card qty="3" id="70544260-9ee4-4596-99f3-a4a33e148173">Kaiu Esumi</card>
+    <card qty="2" id="658d1955-c22c-438d-b325-875e642fe071">Kaiu Nakano</card>
+    <card qty="2" id="c4610da5-9d8d-4f74-ba5a-94639cab3064">Kaiu Watsuki</card>
+  </section>
+  <section name="Stronghold">
+    <card qty="1" id="658d1955-c22c-438d-b325-875e642fe078">Kyuden Hida</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148062">Carpenter Castle</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148134">Halls of the Forgotten</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148199">Kyuden Hida</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148419">Yasuki Palaces</card>
+  </section>
+  <section name="Special Holdings">
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148037">Bamboo Harvesters</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148058">Border Keep</card>
+  </section>
+</deck>

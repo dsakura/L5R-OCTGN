@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="1e2d5eef-7039-48b1-9060-bf6222416a3e">
+  <section name="Fate Deck">
+    <card qty="3" id="c4610da5-9d8d-4f74-ba5a-94639cab3043">Flesh Cutter Arrows</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148386">Tsuruchi House Guard</card>
+    <card qty="3" id="70544260-9ee4-4596-99f3-a4a33e148405">Veteran Skirmishers</card>
+    <card qty="2" id="70544260-9ee4-4596-99f3-a4a33e148407">Village Guardian</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148271">Ring of Earth</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148274">Ring of Water</card>
+    <card qty="3" id="658d1955-c22c-438d-b325-875e642fe005">Advance Warning</card>
+    <card qty="2" id="70544260-9ee4-4596-99f3-a4a33e148035">Back to the Front</card>
+    <card qty="2" id="70544260-9ee4-4596-99f3-a4a33e148056">Block Supply Lines</card>
+    <card qty="2" id="70544260-9ee4-4596-99f3-a4a33e148060">Burn the Towers</card>
+    <card qty="3" id="658d1955-c22c-438d-b325-875e642fe039">Disrupting Communication</card>
+    <card qty="2" id="70544260-9ee4-4596-99f3-a4a33e148108">Face of Ninube</card>
+    <card qty="2" id="70544260-9ee4-4596-99f3-a4a33e148109">Fall Back!</card>
+    <card qty="2" id="70544260-9ee4-4596-99f3-a4a33e148161">Incapacitated</card>
+    <card qty="2" id="70544260-9ee4-4596-99f3-a4a33e148257">Prepared for Death</card>
+    <card qty="2" id="c4610da5-9d8d-4f74-ba5a-94639cab3099">Redoubled Attack</card>
+    <card qty="2" id="658d1955-c22c-438d-b325-875e642fe102">Rocky Terrain</card>
+    <card qty="2" id="70544260-9ee4-4596-99f3-a4a33e148315">Sniping</card>
+    <card qty="3" id="70544260-9ee4-4596-99f3-a4a33e148349">The Courage of the Mantis</card>
+  </section>
+  <section name="Dynasty Deck">
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148427">Yoritomo's Guidance</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148416">Wisdom Gained</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148112">Family Library</card>
+    <card qty="2" id="70544260-9ee4-4596-99f3-a4a33e148196">Kobune Port</card>
+    <card qty="3" id="70544260-9ee4-4596-99f3-a4a33e148202">Large Farm</card>
+    <card qty="3" id="70544260-9ee4-4596-99f3-a4a33e148312">Small Farm</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148260">Public Records</card>
+    <card qty="3" id="c4610da5-9d8d-4f74-ba5a-94639cab3100">Remote Village</card>
+    <card qty="3" id="70544260-9ee4-4596-99f3-a4a33e148224">Moshi Madoka</card>
+    <card qty="2" id="70544260-9ee4-4596-99f3-a4a33e148225">Moshi Yokohime</card>
+    <card qty="3" id="70544260-9ee4-4596-99f3-a4a33e148388">Tsuruchi Kosoko</card>
+    <card qty="3" id="70544260-9ee4-4596-99f3-a4a33e148390">Tsuruchi Tomaru</card>
+    <card qty="3" id="658d1955-c22c-438d-b325-875e642fe149">Tsuruchi Yashiro</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148424">Yoritomo Hiromi</card>
+    <card qty="3" id="70544260-9ee4-4596-99f3-a4a33e148425">Yoritomo Nakoshi</card>
+    <card qty="3" id="70544260-9ee4-4596-99f3-a4a33e148426">Yoritomo Naoto</card>
+    <card qty="2" id="658d1955-c22c-438d-b325-875e642fe162">Yoritomo Zinan</card>
+    <card qty="2" id="658d1955-c22c-438d-b325-875e642fe161">Yoritomo Tarao</card>
+  </section>
+  <section name="Stronghold">
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148182">Kalani's Landing</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148197">Koshin Keep</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148200">Kyuden Kitsune</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148332">Suitengu's Torch</card>
+    <card qty="1" id="c4610da5-9d8d-4f74-ba5a-94639cab3076">Kyuden Kitsune</card>
+  </section>
+  <section name="Special Holdings">
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148037">Bamboo Harvesters</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148058">Border Keep</card>
+  </section>
+</deck>

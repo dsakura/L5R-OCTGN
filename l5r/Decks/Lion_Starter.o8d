@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="1e2d5eef-7039-48b1-9060-bf6222416a3e">
+  <section name="Fate Deck">
+    <card qty="3" id="c4610da5-9d8d-4f74-ba5a-94639cab3101">Satoshi's Dual Warfans</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148154">Ikoma House Guard</card>
+    <card qty="3" id="70544260-9ee4-4596-99f3-a4a33e148405">Veteran Skirmishers</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148271">Ring of Earth</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148274">Ring of Water</card>
+    <card qty="2" id="70544260-9ee4-4596-99f3-a4a33e148035">Back to the Front</card>
+    <card qty="2" id="70544260-9ee4-4596-99f3-a4a33e148056">Block Supply Lines</card>
+    <card qty="2" id="658d1955-c22c-438d-b325-875e642fe023">Brothers in Battle</card>
+    <card qty="2" id="658d1955-c22c-438d-b325-875e642fe039">Disrupting Communication</card>
+    <card qty="2" id="70544260-9ee4-4596-99f3-a4a33e148108">Face of Ninube</card>
+    <card qty="2" id="70544260-9ee4-4596-99f3-a4a33e148132">Guided by Honor</card>
+    <card qty="2" id="70544260-9ee4-4596-99f3-a4a33e148136">Hard Pressed</card>
+    <card qty="2" id="70544260-9ee4-4596-99f3-a4a33e148138">Heart of Rokugan</card>
+    <card qty="2" id="70544260-9ee4-4596-99f3-a4a33e148160">In the Heart of Battle</card>
+    <card qty="3" id="70544260-9ee4-4596-99f3-a4a33e148161">Incapacitated</card>
+    <card qty="2" id="c4610da5-9d8d-4f74-ba5a-94639cab3099">Redoubled Attack</card>
+    <card qty="2" id="658d1955-c22c-438d-b325-875e642fe102">Rocky Terrain</card>
+    <card qty="3" id="70544260-9ee4-4596-99f3-a4a33e148357">The Honor of the Lion</card>
+    <card qty="3" id="70544260-9ee4-4596-99f3-a4a33e148413">Well Prepared</card>
+  </section>
+  <section name="Dynasty Deck">
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148014">Akodo's Guidance</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148094">Delayed Arrival</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148013">Akodo's Grave</card>
+    <card qty="3" id="70544260-9ee4-4596-99f3-a4a33e148077">Copper Mine</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148112">Family Library</card>
+    <card qty="3" id="70544260-9ee4-4596-99f3-a4a33e148202">Large Farm</card>
+    <card qty="3" id="70544260-9ee4-4596-99f3-a4a33e148312">Small Farm</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148260">Public Records</card>
+    <card qty="3" id="c4610da5-9d8d-4f74-ba5a-94639cab3100">Remote Village</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148008">Akodo Dairuko</card>
+    <card qty="2" id="c4610da5-9d8d-4f74-ba5a-94639cab3005">Akodo Kakihara</card>
+    <card qty="3" id="70544260-9ee4-4596-99f3-a4a33e148010">Akodo Kisho</card>
+    <card qty="3" id="70544260-9ee4-4596-99f3-a4a33e148156">Ikoma Shika</card>
+    <card qty="3" id="70544260-9ee4-4596-99f3-a4a33e148157">Ikoma Shinju</card>
+    <card qty="3" id="c4610da5-9d8d-4f74-ba5a-94639cab3056">Ikoma Sugo</card>
+    <card qty="2" id="70544260-9ee4-4596-99f3-a4a33e148210">Matsu Arata</card>
+    <card qty="3" id="70544260-9ee4-4596-99f3-a4a33e148211">Matsu Hachiro</card>
+    <card qty="3" id="658d1955-c22c-438d-b325-875e642fe096">Pride of the Hand</card>
+  </section>
+  <section name="Stronghold">
+    <card qty="1" id="658d1955-c22c-438d-b325-875e642fe109">Shamate Keep</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148106">Eternal Victory Dojo</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148133">Halls of Memory</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148286">Shamate Keep</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148354">The Golden Plains</card>
+  </section>
+  <section name="Special Holdings">
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148037">Bamboo Harvesters</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148058">Border Keep</card>
+  </section>
+</deck>

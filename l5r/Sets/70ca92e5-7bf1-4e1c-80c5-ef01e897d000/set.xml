@@ -1,0 +1,2255 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Torn Asunder" id="70ca92e5-7bf1-4e1c-80c5-ef01e897d000" gameId="1e2d5eef-7039-48b1-9060-bf6222416a3e" gameVersion="1.3.0" version="3.0">
+	<cards>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d001" name="A Cleansing Breath">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Strategy" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="0" />
+			<property name="Focus" value="4" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Battle/Open: Target your Personality at any location: He centers himself. Negate other players' cards' effects that prevent him assigning, moving or performing actions. If he is a Kensai, straighten his unit." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d002" name="A Close Call">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Strategy" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="0" />
+			<property name="Focus" value="1" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Reaction: After a Personality with an Armor is targeted by a Melee or Ranged Attack: Negate its effects." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d003" name="A Dangerous Game">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Event" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Unique. You may discard your hand (even if it is empty). If you did, draw four cards." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d004" name="A Threat Enacted">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Strategy" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="4" />
+			<property name="Focus" value="2" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Political. Limited: Choose your performing unbowed non-Duelist Courtier Personality, target a Personality with equal or lower Personal Honor, and discard the Imperial Favor: Destroy a non-Unique card in his unit without attachments. Dishonor him (if he is still in play)." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d005" name="Akodo Chiyo">
+			<property name="Clan" value="Lion" />
+			<property name="Card Type" value="Personality" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="7" />
+			<property name="Focus" value="" />
+			<property name="Force" value="3" />
+			<property name="Chi" value="3" />
+			<property name="Starting Family Honor" value="7" />
+			<property name="Personal Honor" value="3" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="7" />
+			<property name="Text Box" value="Lion Clan • Samurai • Tactician. Crab Clan players may ignore Chiyo's Honor Requirement." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d006" name="Ambush Tactics">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Strategy" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="0" />
+			<property name="Focus" value="2" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Battle: Bow your performing Personality: Ranged 3 Attack with +2 strength if your performer is a Scout. You may move him home." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d007" name="Anchored in Earth">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Spell" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="0" />
+			<property name="Focus" value="3" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Earth. Battle: Even if this unit is not at the current battlefield, bow this card and target your defending Spirit: Give it +3F and Elite (Elite cards contribute Force even if bowed)." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d008" name="Asahina Akahiko">
+			<property name="Clan" value="Crane" />
+			<property name="Card Type" value="Personality" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="7" />
+			<property name="Focus" value="" />
+			<property name="Force" value="2" />
+			<property name="Chi" value="4" />
+			<property name="Starting Family Honor" value="2" />
+			<property name="Personal Honor" value="3" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="2" />
+			<property name="Text Box" value="Crane Clan • Air • Shugenja • Cavalry. Melee and Ranged Attacks targeting Akahiko have -4 strength." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d009" name="Asahina Nanae - exp">
+			<property name="Clan" value="Crane" />
+			<property name="Card Type" value="Personality" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="8" />
+			<property name="Focus" value="" />
+			<property name="Force" value="2" />
+			<property name="Chi" value="4" />
+			<property name="Starting Family Honor" value="9" />
+			<property name="Personal Honor" value="4" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="9" />
+			<property name="Text Box" value="Crane Clan • Air • Jade • Shugenja • Experienced • Unique • Jade Champion. Battle/Open: Even if Nanae is bowed, target a Personality: You may straighten him. You may give him -4F. Bow him if he is Shadowlands." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d010" name="Asako Izuna">
+			<property name="Clan" value="Phoenix" />
+			<property name="Card Type" value="Personality" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="9" />
+			<property name="Focus" value="" />
+			<property name="Force" value="3" />
+			<property name="Chi" value="4" />
+			<property name="Starting Family Honor" value="6" />
+			<property name="Personal Honor" value="3" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="6" />
+			<property name="Text Box" value="Phoenix Clan • Air • Courtier • Shugenja • Inquisitor • Magistrate • Villain • Experienced • Unique • Amethyst Champion. Political Limited: Take the Imperial Favor. Battle/Limited: Target another player's card in a unit: Bow the target. If it is Kolat, Ninja, or Shadowlands, choose a player who gains or loses 2 Honor." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d011" name="Asako Kyuudo">
+			<property name="Clan" value="Phoenix" />
+			<property name="Card Type" value="Personality" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="8" />
+			<property name="Focus" value="" />
+			<property name="Force" value="4" />
+			<property name="Chi" value="3" />
+			<property name="Starting Family Honor" value="4" />
+			<property name="Personal Honor" value="3" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="4" />
+			<property name="Text Box" value="Phoenix Clan • Earth • Shugenja • Inquisitor • Magistrate. Kyuudo has +3F and Elite while defending (Elite cards contribute Force even if bowed)." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d012" name="Asako Suzukaze">
+			<property name="Clan" value="Phoenix" />
+			<property name="Card Type" value="Personality" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="7" />
+			<property name="Focus" value="" />
+			<property name="Force" value="4" />
+			<property name="Chi" value="3" />
+			<property name="Starting Family Honor" value="0" />
+			<property name="Personal Honor" value="2" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="0" />
+			<property name="Text Box" value="Phoenix Clan • Air • Monk • Henshin. Limited: Target a Holding: It produces 1 additional Gold when it bows to produce Gold (this turn)." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d013" name="Avenging the Fallen">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Strategy" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="0" />
+			<property name="Focus" value="2" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Battle: Choose your performing Personality: Straighten him. If another player's Battle action has destroyed one of your Personalities this battle, negate the performer's next destruction from card effects (this turn)." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d014" name="Bamboo Tattoo">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Strategy" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="0" />
+			<property name="Focus" value="4" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Tattoo. Limited: Choose your performing unbowed Tattooed Personality: Permanently give him Stalwart (Stalwart cards negate their first bowing each turn by other players' cards)." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d015" name="Bayushi Hamada">
+			<property name="Clan" value="Scorpion" />
+			<property name="Card Type" value="Personality" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="8" />
+			<property name="Focus" value="" />
+			<property name="Force" value="5" />
+			<property name="Chi" value="3" />
+			<property name="Starting Family Honor" value="-" />
+			<property name="Personal Honor" value="2" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="-" />
+			<property name="Text Box" value="Loyal • Paragon • Samurai • Scorpion Clan • Yojimbo. Crab Clan players may control Hamada. Hamada has +1F for each of your Courtiers and your Crab Clan Personalities." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d016" name="Bayushi Kazutoshi - exp2">
+			<property name="Clan" value="Scorpion" />
+			<property name="Card Type" value="Personality" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="8" />
+			<property name="Focus" value="" />
+			<property name="Force" value="4" />
+			<property name="Chi" value="4" />
+			<property name="Starting Family Honor" value="1" />
+			<property name="Personal Honor" value="2" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="1" />
+			<property name="Text Box" value="Scorpion Clan • Courtier • Samurai • Sensei • Experienced 2 • Loyal • Unique. After Kazutoshi enters play or overlays: Discard all your other Sensei Personalities. Before the first time each turn another player's card's effect destroys one of your Loyal Personalities: Negate the destruction. Move him home. Bow him. Dishonor him." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d017" name="Bayushi Wakui">
+			<property name="Clan" value="Scorpion" />
+			<property name="Card Type" value="Personality" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="4" />
+			<property name="Focus" value="" />
+			<property name="Force" value="1" />
+			<property name="Chi" value="3" />
+			<property name="Starting Family Honor" value="0" />
+			<property name="Personal Honor" value="1" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="0" />
+			<property name="Text Box" value="Magistrate • Samurai • Scorpion Clan • Yojimbo. Reaction: When another player would target a Magistrate at Wakui's battlefield with an action: The action targets Wakui instead, if legal." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d018" name="Blood of Isawa's Tribe">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Spell" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="0" />
+			<property name="Focus" value="2" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="After this card attaches: Choose an element keyword (Air, Earth, Fire, Water, Void) in this Shugenja's keywords or text. While this card is attached, replace all instances of that keyword on this Shugenja with a different element keyword that you choose now." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d019" name="Blood Wave">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Spell" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="0" />
+			<property name="Focus" value="3" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Maho. Battle: Even if this unit is not at the current battlefield, bow this Shugenja and destroy your target Personality or Follower: Two consecutive Ranged Attacks, each with strength equal to half your target's Force, rounded down." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d020" name="Bonds of Hospitality">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Strategy" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="2" />
+			<property name="Focus" value="2" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Political. Limited: Target a bowed Personality: Put this card into play. While this card remains in play, negate the target's straightening, and his controller has the ability, &quot;Open: Pay 4 Gold: Discard a Bonds of Hospitality.&quot;" />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d021" name="Brothers of the Great Lake">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Follower" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="4" />
+			<property name="Focus" value="3" />
+			<property name="Force" value="3" />
+			<property name="Chi" value="0" />
+			<property name="Starting Family Honor" value="0" />
+			<property name="Personal Honor" value="-" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="0" />
+			<property name="Text Box" value="This card has +1F for each other Brothers of the Great Lake in this army. Battle: Target an enemy card: Bow it." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d022" name="Calling the Darkness">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Strategy" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="0" />
+			<property name="Focus" value="3" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Limited: Bow your performing Personality: Permanently give him Shadowlands and three +1F tokens. Straighten him before the turn ends. Lose 2 Honor." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d023" name="Cavalry Flankers">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Follower" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="0" />
+			<property name="Focus" value="2" />
+			<property name="Force" value="0" />
+			<property name="Chi" value="0" />
+			<property name="Starting Family Honor" value="0" />
+			<property name="Personal Honor" value="-" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="0" />
+			<property name="Text Box" value="Cavalry. Battle: If you are the Attacker, bow this card: Melee 2 Attack." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d024" name="Charge Into Danger">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Strategy" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="0" />
+			<property name="Focus" value="1" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Battle: Choose your performing Personality: If he assigned to, or would be opposed at, the current battlefield, move him there. If his base Force is 7 or higher, straighten him." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d025" name="Chiyuren's Axe">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Item" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="4" />
+			<property name="Focus" value="2" />
+			<property name="Force" value="+3" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Weapon. Attaches to Hida Chiyurei paying 2 less Gold. Melee Attacks this Personality performs may be compared against the target's base Force." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d026" name="Chuda Kaito">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Personality" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="2" />
+			<property name="Focus" value="" />
+			<property name="Force" value="0" />
+			<property name="Chi" value="2" />
+			<property name="Starting Family Honor" value="-" />
+			<property name="Personal Honor" value="0" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="-" />
+			<property name="Text Box" value="Shadowlands • Shugenja. After Kaito enters play: Lose 2 Honor. Kaito has +3GC while the effects of a Spell action he performed are resolving." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d027" name="Chun">
+			<property name="Clan" value="Unaligned" />
+			<property name="Card Type" value="Personality" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="5" />
+			<property name="Focus" value="" />
+			<property name="Force" value="3" />
+			<property name="Chi" value="2" />
+			<property name="Starting Family Honor" value="-" />
+			<property name="Personal Honor" value="1" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="-" />
+			<property name="Text Box" value="Captain of The Tachikaze • Mercenary • Naval. Human Personalities in Chun's army have Naval." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d028" name="Courteous Gift">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Strategy" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="0" />
+			<property name="Focus" value="4" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Bushido Virtue • Courtesy. Limited: Bow your performing Samurai, target a face-up card in a province, and choose another player: He may draw a card. Reduce the target's Gold Cost (this turn) by 2, or 4 if the player drew a card." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d029" name="Daidoji Ibara">
+			<property name="Clan" value="Crane" />
+			<property name="Card Type" value="Personality" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="8" />
+			<property name="Focus" value="" />
+			<property name="Force" value="4" />
+			<property name="Chi" value="3" />
+			<property name="Starting Family Honor" value="5" />
+			<property name="Personal Honor" value="2" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="5" />
+			<property name="Text Box" value="Crane Clan • Iron Crane • Samurai • Scout. Battle: Target an enemy Personality or Follower: Move Ibara to oppose it. If she now opposes it, give it -3F and, if it is Mantis Clan, bow it." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d030" name="Daigotsu Arare">
+			<property name="Clan" value="Spider" />
+			<property name="Card Type" value="Personality" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="3" />
+			<property name="Focus" value="" />
+			<property name="Force" value="2" />
+			<property name="Chi" value="2" />
+			<property name="Starting Family Honor" value="-" />
+			<property name="Personal Honor" value="0" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="-" />
+			<property name="Text Box" value="Samurai • Shadowlands • Spider Clan" />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d031" name="Daigotsu Bofana - exp">
+			<property name="Clan" value="Spider" />
+			<property name="Card Type" value="Personality" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="11" />
+			<property name="Focus" value="" />
+			<property name="Force" value="7" />
+			<property name="Chi" value="4" />
+			<property name="Starting Family Honor" value="-" />
+			<property name="Personal Honor" value="0" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="-" />
+			<property name="Text Box" value="Spider Clan • Imperial • Shadowlands • Samurai • Paragon • Scout • Experienced • Loyal • Unique • Dark Scion of Fire • Imperial Explorer. After Bofana enters play: Lose 2 Honor and all other players must discard a card, or two cards if they are Crab Clan. Battle: Target a Dark Virtue in your discard pile: Take an additional action to play it for one of its Battle actions. After it resolves, remove the card from the game." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d032" name="Daigotsu Hashibei">
+			<property name="Clan" value="Spider" />
+			<property name="Card Type" value="Personality" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="5" />
+			<property name="Focus" value="" />
+			<property name="Force" value="1" />
+			<property name="Chi" value="3" />
+			<property name="Starting Family Honor" value="-" />
+			<property name="Personal Honor" value="0" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="-" />
+			<property name="Text Box" value="Spider Clan • Samurai • Commander • Recruitment Officer. Fear Open: Bow Hashibei and target your Personality: Create a 1F Follower and attach it to him." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d033" name="Daigotsu Shiraume">
+			<property name="Clan" value="Spider" />
+			<property name="Card Type" value="Personality" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="6" />
+			<property name="Focus" value="" />
+			<property name="Force" value="4" />
+			<property name="Chi" value="1" />
+			<property name="Starting Family Honor" value="-" />
+			<property name="Personal Honor" value="0" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="-" />
+			<property name="Text Box" value="Spider Clan • Shadowlands • Samurai • Conqueror • Paragon • Dark Conquest. After Shiraume enters play: Lose 1 Honor." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d034" name="Damaged Port">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Holding" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="2" />
+			<property name="Gold Cost" value="2" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Port. Bow this card: Produce 2 Gold, or 4 Gold if paying for a Holding." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d035" name="Defensive Stance">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Strategy" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="0" />
+			<property name="Focus" value="4" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Battle: Choose your performing bowed Personality: Straighten him. Give him +3F." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d036" name="Destrier">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Follower" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="2" />
+			<property name="Focus" value="2" />
+			<property name="Force" value="2" />
+			<property name="Chi" value="0" />
+			<property name="Starting Family Honor" value="1" />
+			<property name="Personal Honor" value="-" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="1" />
+			<property name="Text Box" value="Cavalry. Melee and Ranged Attacks targeting this card have -3 strength." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d037" name="Disciples of Master Coin">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Follower" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="4" />
+			<property name="Focus" value="2" />
+			<property name="Force" value="3" />
+			<property name="Chi" value="0" />
+			<property name="Starting Family Honor" value="0" />
+			<property name="Personal Honor" value="-" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="0" />
+			<property name="Text Box" value="Kolat. Open: If this card did not enter play this turn, bow it and target a Holding with equal or lower gold cost: Straighten it." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d038" name="Doji Iza">
+			<property name="Clan" value="Crane" />
+			<property name="Card Type" value="Personality" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="6" />
+			<property name="Focus" value="" />
+			<property name="Force" value="2" />
+			<property name="Chi" value="3" />
+			<property name="Starting Family Honor" value="6" />
+			<property name="Personal Honor" value="4" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="6" />
+			<property name="Text Box" value="Crane Clan • Samurai • Duelist • Magistrate. Open: Target another player's Mirumoto Kyoshiro: Iza duels him. Destroy the duel's loser." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d039" name="Doji Kazuo - exp">
+			<property name="Clan" value="Crane" />
+			<property name="Card Type" value="Personality" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="9" />
+			<property name="Focus" value="" />
+			<property name="Force" value="2" />
+			<property name="Chi" value="5" />
+			<property name="Starting Family Honor" value="6" />
+			<property name="Personal Honor" value="4" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="6" />
+			<property name="Text Box" value="Crane Clan • Imperial • Courtier • Samurai • Duelist • Magistrate • Overconfident • Scout • Experienced • Unique • Imperial Explorer. During a duel involving Kazuo, the other player must focus from his hand at his first opportunity(if able). After your End Phase begins, if Kazuo won a duel, or you have gained 4 or more Honor, this turn: Look at the top 3 cards of a Fate deck. Put them back in any order." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d040" name="Doji Tatsuzo">
+			<property name="Clan" value="Crane" />
+			<property name="Card Type" value="Personality" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="7" />
+			<property name="Focus" value="" />
+			<property name="Force" value="1" />
+			<property name="Chi" value="3" />
+			<property name="Starting Family Honor" value="5" />
+			<property name="Personal Honor" value="4" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="5" />
+			<property name="Text Box" value="Crane Clan • Courtier. Political Open: Target a Personality: While he is at the current battlefield (later this turn), you may take a Battle action even if you control no units there. After that action ends, end this action's effects on him." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d041" name="Drain of Effort">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Strategy" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="2" />
+			<property name="Focus" value="1" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Open: Until this phase ends or a player has discarded two cards from this effect, after each action other than this one resolves, its player discards a card. Open: Draw a card." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d042" name="Duty Over All Things">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Strategy" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="0" />
+			<property name="Focus" value="4" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Battle: Choose your performing discarded Yojimbo: If he would be opposed, bring him into play at the current battlefield, paying 3 less Gold if you control a Courtier or Shugenja." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d043" name="Earth's Protection">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Spell" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="0" />
+			<property name="Focus" value="3" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Earth. Battle: Bow this card and give the current battlefield's province a bonus, or a penalty if you are defending, from 1 up to its current strength: Give this Shugenja an equal Force bonus. Negate his next bowing or movement from other players' cards' effects if he is Earth." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d044" name="Eye of the Sword">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Strategy" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="0" />
+			<property name="Focus" value="2" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Iaijutsu. Battle: Choose your performing unbowed Duelist and target an enemy Personality: Your Personality duels the target. Give the winner two +1F tokens. Destroy the duel's loser." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d045" name="Forest Cover">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Strategy" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="0" />
+			<property name="Focus" value="2" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Recon. Reaction: After engaging, choose your performing Scout Personality at the current battlefield: You have Reconnaissance there. Attach a Follower to him from your hand or discard pile, paying all costs. If you did, draw an additional card during your next End Phase." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d046" name="Forgotten Teachings">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Strategy" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="0" />
+			<property name="Focus" value="4" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Open: Target another player's Sensei Personality: Remove all traits and abilities from him (this turn)." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d047" name="Frozen in Place">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Strategy" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="0" />
+			<property name="Focus" value="1" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Battle/Open: Target a Personality: Give him -3F/-1C." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d048" name="Fubuko">
+			<property name="Clan" value="Spider" />
+			<property name="Card Type" value="Personality" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="8" />
+			<property name="Focus" value="" />
+			<property name="Force" value="4" />
+			<property name="Chi" value="4" />
+			<property name="Starting Family Honor" value="1" />
+			<property name="Personal Honor" value="1" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="1" />
+			<property name="Text Box" value="Spider Clan • Monk • Kensai • Order of the Spider. Enters play paying 1 less Gold if you are a Dragon Clan player. Battle: Take an additional action to play a Kiho Strategy in your discard pile, which Fubuko must perform, for one of its Battle actions. After it resolves, remove the Strategy from the game." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d049" name="Generational Gap">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Strategy" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="1" />
+			<property name="Focus" value="4" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Open: Target two Personalities with the same Family name: They may not be assigned to the same battlefield." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d050" name="Goju Kaxt">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Follower" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="6" />
+			<property name="Focus" value="3" />
+			<property name="Force" value="3" />
+			<property name="Chi" value="0" />
+			<property name="Starting Family Honor" value="0" />
+			<property name="Personal Honor" value="-" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="0" />
+			<property name="Text Box" value="Ninja. Other Ninja in this army have +1F. After an action resolves during which this card was destroyed: Create a 4F/3C/0PH Ninja Personality with your Clan alignment at any location." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d051" name="Dojo">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Holding" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="2" />
+			<property name="Gold Cost" value="2" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Dojo. Bow this card: Produce 2 Gold. Open: Bow this card, destroy it if it is your turn, and target a Personality: Give him Cavalry." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d052" name="Hachiman's Prowess">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Celestial" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Fortune • Unique. Limited: Once per game, target your Personality: While this card remains in play, he has Elite and the trait, &quot;May assign even if bowed.&quot; (Elite cards contribute Force even if bowed)." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d053" name="Harbingers of War">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Event" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Unique. Until the game ends, equipping Followers and Items from your hand with a base Gold Cost of 1 to 4 is a Battle/Open action for you and, after the first time each turn you do so, draw a card." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d054" name="Harbor of Kalani's Landing">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Strategy" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="0" />
+			<property name="Focus" value="1" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Port • Terrain. Negate Personalities' movement to or from this battlefield. Battle: If there is no Terrain in play at the current battlefield: Put this card into play there. You may take an additional Battle action." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d055" name="Harmony">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Strategy" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="0" />
+			<property name="Focus" value="0" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Void • Kiho. Open: Choose your performing Monk: Permanently give him the trait, &quot;You may bow this card instead of bowing a Ring to pay a cost.&quot;" />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d056" name="hero's Memorial">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Holding" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="0" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Singular. Reaction: After another player's action resolves which destroyed one of your Personalities, bow this card: Gain 2 Honor." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d057" name="Hida Chiyurei">
+			<property name="Clan" value="Crab" />
+			<property name="Card Type" value="Personality" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="5" />
+			<property name="Focus" value="" />
+			<property name="Force" value="2" />
+			<property name="Chi" value="1" />
+			<property name="Starting Family Honor" value="-" />
+			<property name="Personal Honor" value="0" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="-" />
+			<property name="Text Box" value="Crab Clan • Berserker • Tactician" />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d058" name="Hiruma Ikeuchi">
+			<property name="Clan" value="Crab" />
+			<property name="Card Type" value="Personality" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="7" />
+			<property name="Focus" value="" />
+			<property name="Force" value="4" />
+			<property name="Chi" value="3" />
+			<property name="Starting Family Honor" value="0" />
+			<property name="Personal Honor" value="2" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="0" />
+			<property name="Text Box" value="Crab Clan • Imperial • Samurai • Scout • Yojimbo. Before the first time each battle any of Ikeuchi's Followers are destroyed by another player's card's effect: If you have Reconnaissance, negate the destruction of one such Follower." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d059" name="Ikoma Satoru - exp">
+			<property name="Clan" value="Lion" />
+			<property name="Card Type" value="Personality" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="7" />
+			<property name="Focus" value="" />
+			<property name="Force" value="3" />
+			<property name="Chi" value="3" />
+			<property name="Starting Family Honor" value="7" />
+			<property name="Personal Honor" value="3" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="7" />
+			<property name="Text Box" value="Lion Clan • Samurai • Artisan • Tactician • Experienced • Unique • Turquoise Champion. Limited: Show a card in your hand and choose another player: You offer it as a gift. He may put it in his hand; if he did, draw two cards. Otherwise, discard it, and Melee Attack with strength equal to its Focus Value targeting a Follower or Personality without Followers in his home." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d060" name="Ikoma Shizuka">
+			<property name="Clan" value="Lion" />
+			<property name="Card Type" value="Personality" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="5" />
+			<property name="Focus" value="" />
+			<property name="Force" value="2" />
+			<property name="Chi" value="3" />
+			<property name="Starting Family Honor" value="3" />
+			<property name="Personal Honor" value="2" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="3" />
+			<property name="Text Box" value="Lion Clan • Samurai • Scout • Cavalry. Limited: Bow Shizuka: Search you Dynasty or Fate deck. If you find a Region, attach it to one of your provinces, paying all costs. If you find a Terrain, put it in your hand and discard a card." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d061" name="Imperial Deplyment">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Strategy" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="0" />
+			<property name="Focus" value="4" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Imperial. Open: Choose your performing Personality: The Empress dispatches him to the Colonies. Negate other players' cards' effects that prevent him assigning. After the next time this turn an attack is declared, straighten his unit." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d062" name="Improper Papers">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Strategy" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="0" />
+			<property name="Focus" value="3" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Reaction: Before an action resolves, target a Personality: Negate his movement from the action's effects." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d063" name="Imprudent Misstep">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Strategy" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="0" />
+			<property name="Focus" value="2" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Political. Limited: Target another player with 30 or more Family Honor: He commits a public breach of etiquette. He loses 5 Honor." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d064" name="In the Right">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Strategy" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="0" />
+			<property name="Focus" value="3" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Political. Battle: Bow your performing Courtier at any location and target one or more attacking cards, up to half of your Courtier's Chi, rounded down: Bow the targets." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d065" name="Isawa Hibana">
+			<property name="Clan" value="Phoenix" />
+			<property name="Card Type" value="Personality" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="6" />
+			<property name="Focus" value="" />
+			<property name="Force" value="3" />
+			<property name="Chi" value="3" />
+			<property name="Starting Family Honor" value="6" />
+			<property name="Personal Honor" value="2" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="6" />
+			<property name="Text Box" value="Phoenix Clan • Fire • Shugenja. Battle/Open: Give Hibana -3F and target your Personality without the Water keyword: Give him +3F." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d066" name="Isawa Mizuhama">
+			<property name="Clan" value="Phoenix" />
+			<property name="Card Type" value="Personality" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="4" />
+			<property name="Focus" value="" />
+			<property name="Force" value="2" />
+			<property name="Chi" value="2" />
+			<property name="Starting Family Honor" value="6" />
+			<property name="Personal Honor" value="2" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="6" />
+			<property name="Text Box" value="Phoenix Clan • Water • Shugenja" />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d067" name="Iuchi Shaocheng">
+			<property name="Clan" value="Unicorn" />
+			<property name="Card Type" value="Personality" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="5" />
+			<property name="Focus" value="" />
+			<property name="Force" value="2" />
+			<property name="Chi" value="2" />
+			<property name="Starting Family Honor" value="-" />
+			<property name="Personal Honor" value="1" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="-" />
+			<property name="Text Box" value="Unicorn Clan • Water • Shugenja • Cavalry • Death Priest. After Shaocheng enters play: Turn a card in a province face-up. If it is a non-Unique Personality, discard him and he becomes honorably dead." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d068" name="Journey's End Keep - exp">
+			<property name="Clan" value="Unaligned" />
+			<property name="Card Type" value="Stronghold" />
+			<property name="Strength of Province" value="7" />
+			<property name="Gold Production" value="5" />
+			<property name="Gold Cost" value="" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="8" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Imperial • Experienced. “Imperial” is a Clan alignment, and it is your Clan alignment. You may not buy Personalities with Clan discount if Imperial is their only Clan alignment. If no other player has an Imperial Stronghold, you begin the game with the Imperial Favor. This card does not produce Gold when paying for Personalities." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d069" name="Kage's Teaching">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Item" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="4" />
+			<property name="Focus" value="2" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Unique. This Personality has Kolat. Open: If it is not your turn, bow this card and choose a player: He chooses and bows one of his unbowed Personalities." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d070" name="Kaiu Nagai">
+			<property name="Clan" value="Crab" />
+			<property name="Card Type" value="Personality" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="8" />
+			<property name="Focus" value="" />
+			<property name="Force" value="4" />
+			<property name="Chi" value="4" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="3" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="3" />
+			<property name="Text Box" value="Crab Clan • Samurai • Siege • Tactician. While Nagai is defending, he has Elite (Elite cards contribute Force even if bowed)." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d071" name="Kitsu Miwa">
+			<property name="Clan" value="Lion" />
+			<property name="Card Type" value="Personality" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="5" />
+			<property name="Focus" value="" />
+			<property name="Force" value="0" />
+			<property name="Chi" value="2" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="3" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="7" />
+			<property name="Text Box" value="Crab Clan • Samurai • Siege • Tactician. Limited: If Miwa is face-up in your province, discard her and pay 2 Gold: Search your Dynasty deck for a non-Unique Lion Clan Shugenja. Refill this province with him, face-up." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d072" name="Kitsuki Judgment">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Strategy" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="0" />
+			<property name="Focus" value="1" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Political. Limited: Choose your performing unbowed Magistrate, target a Human Personality, and pay Gold equal to his unit's total Gold Cost, +8 unless he is dishonorable, Kolat, Ninja, or Shadowlands: He commits seppuku." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d073" name="Kitsune Yuribara">
+			<property name="Clan" value="Mantis" />
+			<property name="Card Type" value="Personality" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="7" />
+			<property name="Focus" value="" />
+			<property name="Force" value="1" />
+			<property name="Chi" value="4" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="4" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="4" />
+			<property name="Text Box" value="Mantis Clan • Earth • Shugenja. Reaction: After Yuribara enters play: Create a 0F/2C/3PH Mantis Clan • Nonhuman • Butterfly • Cavalry • Spirit Personality with the traits, &quot;Other player's Battle actions must target a Butterfly Personality at this battlefield, if legal,&quot; and &quot;After another player's Battle action targets this card: Destroy this card.&quot;" />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d074" name="Kokure's Lands">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Region" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Unique. This province does not hold Dynasty cards. Limited: Bow this card: Draw a card." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d075" name="Kuni Renyu - exp">
+			<property name="Clan" value="Crab" />
+			<property name="Card Type" value="Personality" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="10" />
+			<property name="Focus" value="" />
+			<property name="Force" value="5" />
+			<property name="Chi" value="4" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="-" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="-" />
+			<property name="Text Box" value="Crab Clan • Daimyo • Earth • Jade • Shugenja • Witch Hunter • Experienced • Loyal • Unique. Your provinces have +2 strength. Your other Personalities with a base Gold Cost of 5 or higher enter play paying 2 less Gold." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d076" name="Kuni Shinoda - exp">
+			<property name="Clan" value="Crab" />
+			<property name="Card Type" value="Personality" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="7" />
+			<property name="Focus" value="" />
+			<property name="Force" value="3" />
+			<property name="Chi" value="4" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="2" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="0" />
+			<property name="Text Box" value="Crab Clan • Earth • Shugenja • Hero • Tactician • Experienced • Unique. Battle: Target an enemy card: Bow it. Destroy it if it is Shadowlands." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d077" name="Kurohito's Perfection">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Celestial" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Fortune • Unique. When paying the cost of the rulebook Favor Political Limited action: You may ignore the cost of discarding a card; if you did, delay its effects until your End Phase begins. Limited: Discard this card and target a Personality: Permanently give him Cavalry, Duelist, or Tactician." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d078" name="martyr's Call">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Strategy" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="0" />
+			<property name="Focus" value="2" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Battle/Open: Destroy your performing Paragon and target one or two of your other Personalities: Give them +3F and Stalwart (Stalwart cards negate their first bowing each turn by other players' cards)." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d079" name="Matsu Sango">
+			<property name="Clan" value="Lion" />
+			<property name="Card Type" value="Personality" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="5" />
+			<property name="Focus" value="" />
+			<property name="Force" value="1" />
+			<property name="Chi" value="3" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="3" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="7" />
+			<property name="Text Box" value="Lion Clan • Samurai. Will not attach Items. During battle resolution, if Sango is attacking, he contributes his Force twice." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d080" name="Matsu Yoshito">
+			<property name="Clan" value="Lion" />
+			<property name="Card Type" value="Personality" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="7" />
+			<property name="Focus" value="" />
+			<property name="Force" value="3" />
+			<property name="Chi" value="3" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="3" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="7" />
+			<property name="Text Box" value="Lion Clan • Samurai • Cavalry • Paragon. Yoshito has +1F while attacking, or +2F if the Defender is Dragon Clan." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d081" name="Merchant Outpost">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Holding" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="2" />
+			<property name="Gold Cost" value="2" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Market• Port. Bow this card: Produce 2 Gold. Limited: Target a card in a province and bow this card if the target is not yours: Turn it face-up." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d082" name="Mirumoto Kojinrue - exp">
+			<property name="Clan" value="Dragon" />
+			<property name="Card Type" value="Personality" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="10" />
+			<property name="Focus" value="" />
+			<property name="Force" value="5" />
+			<property name="Chi" value="4" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="2" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="4" />
+			<property name="Text Box" value="Dragon Clan • Imperial • Samurai • Elite • Kensai • Scout • Experienced • Unique • Imperial Explorer. Kojinrue may be assigned even if bowed. You may choose Kojinrue to perform actions requiring an unbowed performer even if he is bowed." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d083" name="Mirumoto Kyoshiro">
+			<property name="Clan" value="Dragon" />
+			<property name="Card Type" value="Personality" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="6" />
+			<property name="Focus" value="" />
+			<property name="Force" value="3" />
+			<property name="Chi" value="3" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="3" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="5" />
+			<property name="Text Box" value="Dragon Clan • Courtier • Duelist • Magistrate. Open: Target another player's Doji Iza: Kyoshiro duels her. Destroy the duel's loser." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d084" name="Mirumoto Yonekura">
+			<property name="Clan" value="Dragon" />
+			<property name="Card Type" value="Personality" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="7" />
+			<property name="Focus" value="" />
+			<property name="Force" value="4" />
+			<property name="Chi" value="3" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="2" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="5" />
+			<property name="Text Box" value="Dragon Clan • Samurai • Elite • Kensai. (Elite cards contribute Force even if bowed.)" />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d085" name="Mirumoto Yozo - exp2">
+			<property name="Clan" value="Dragon" />
+			<property name="Card Type" value="Personality" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="10" />
+			<property name="Focus" value="" />
+			<property name="Force" value="5" />
+			<property name="Chi" value="5" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="2" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="4" />
+			<property name="Text Box" value="Dragon Clan • Duelist • Experienced 2 • Favored of the Fire Dragon • Samurai • Sensei • Unique. After Yozo enters play or overlays: Discard all your other Sensei Personalities. After your Iaijutsu action resolves: Give any Personality who performed it +2F." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d086" name="Miryoku no Shima">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Holding" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="5" />
+			<property name="Gold Cost" value="6" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Bow this card: Produce 5 Gold. Open: Choose your two performing Personalities: A lesson is taught. One copies Commander, Duelist, Kensai, Magistrate, Paragon, Scout, or Yojimbo from the other." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d087" name="Moshi Ira">
+			<property name="Clan" value="Mantis" />
+			<property name="Card Type" value="Personality" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="8" />
+			<property name="Focus" value="" />
+			<property name="Force" value="4" />
+			<property name="Chi" value="4" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="2" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="-" />
+			<property name="Text Box" value="Mantis Clan • Thunder • Shugenja • Naval. Reaction: After an action targets a card in this unit: Give the action's performer (if any) -3F after the action resolves." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d088" name="Moto Ogaru">
+			<property name="Clan" value="Unicorn" />
+			<property name="Card Type" value="Personality" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="5" />
+			<property name="Focus" value="" />
+			<property name="Force" value="3" />
+			<property name="Chi" value="1" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="2" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="4" />
+			<property name="Text Box" value="Unicorn Clan • Samurai • Cavalry • Commander. Ogaru has +1F while the enemy leader controls an Imperial card or the Imperial Favor." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d089" name="Mumoku no Oni">
+			<property name="Clan" value="Unaligned" />
+			<property name="Card Type" value="Personality" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="11" />
+			<property name="Focus" value="" />
+			<property name="Force" value="10" />
+			<property name="Chi" value="3" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="0" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="-" />
+			<property name="Text Box" value="Shadowlands • Nonhuman • Oni • Elite. (Elite cards contribute Force even if bowed.) After Mumoku enters play: Lose 4 Honor." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d090" name="Mutual Support">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Strategy" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="0" />
+			<property name="Focus" value="2" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Battle: Choose two or more performing opposed Personalities, each with a different Clan alignment: Give each performer +2F." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d091" name="Ninube Tsukau">
+			<property name="Clan" value="Spider" />
+			<property name="Card Type" value="Personality" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="7" />
+			<property name="Focus" value="" />
+			<property name="Force" value="0" />
+			<property name="Chi" value="3" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="0" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="-" />
+			<property name="Text Box" value="Spider Clan • Shadowlands • Ninja • Shugenja. After Tsukau enters play: Lose 3 Honor. Open: Once per game, target a non-Unique Human Personality: Tsukau permanently copies his Force, one of his keywords, and one of his base abilities which does not itself copy abilities." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d092" name="Nocturnal Attack">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Strategy" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="0" />
+			<property name="Focus" value="1" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Ninja. Limited: Bow your performing Ninja Personality: The option to create an Attack Phase comes after the Dynasty Phase this turn." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d093" name="Now We Are Enemies">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Strategy" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="0" />
+			<property name="Focus" value="1" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Battle: Target two Personalities in the same army that do not share a Clan alignment: Give each target -3F." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d094" name="Opening the Veil">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Spell" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="0" />
+			<property name="Focus" value="2" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Earth • Water. Your Stronghold has +1 Gold Production for each Spirit you control." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d095" name="Oriole Imperial Vanguard">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Follower" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="7" />
+			<property name="Focus" value="4" />
+			<property name="Force" value="4" />
+			<property name="Chi" value="0" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="-" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="2" />
+			<property name="Text Box" value="Imperial. This Personality has +1PH. Before the first Political action that targeted this Personality this phase resolves: Negate its effects." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d096" name="Overpower">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Strategy" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="0" />
+			<property name="Focus" value="4" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Open: If it is the active player's first or second turn: No Attack Phase may be declared. Limited: Target your discarded (not dead) Personality: Put him into one of your provinces, discarding any card currently there." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d097" name="Paneki's Mask">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Item" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="4" />
+			<property name="Focus" value="4" />
+			<property name="Force" value="" />
+			<property name="Chi" value="+1" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Shadowlands • Unique. Limited: If this card is in your hand, target your dead Personality who was in play during your last turn: Bring him into play, ignoring costs and restrictions, and permanently give him Shadowlands • Undead. Attach this card to him (you must pay its cost). Lose 3 Honor." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d098" name="Path to Inner Peace">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Spell" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="0" />
+			<property name="Focus" value="4" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Water. Battle/Open: Bow this card and target a Personality: Negate all Force penalties on him and other players' cards' effects that prevent him performing actions." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d099" name="Pierce the Tapestry">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Strategy" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="0" />
+			<property name="Focus" value="1" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Void • Kiho. You may include up to seven copies of this card in your deck. Battle: Choose your performing unbowed Monk and target an enemy Personality or Follower: Give it -3F. If it has no attachments and you have played two or more other Pierce the Tapestry this battle, destroy it. If this did not destroy it, you may take an additional Battle action to play a Pierce the Tapestry." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d100" name="Read the Essence">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Spell" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="0" />
+			<property name="Focus" value="3" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Void. Open: Bow this card and target one face-down card in a province, or one or two such cards if this Shugenja is Void: Turn the targets face-up." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d101" name="Ready the Defenses">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Strategy" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="0" />
+			<property name="Focus" value="3" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Open: Choose your performing Personality and target a province: While at the province's battlefields, other players' Personalities and Followers have -1F and, if your performer is a Tactician, your Personalities and Followers have +1F." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d102" name="Recruitment Effort">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Strategy" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="3" />
+			<property name="Focus" value="2" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Open: Destroy your target non-Unique Holding: Create a 3F/3C/2PH Samurai Personality." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d103" name="Rejected Mediation">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Event" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Unique. Any player who controls the Imperial Favor discards it. Until your second turn from now begins, negate the effects of the first Political action taken each turn." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d104" name="Renyu's Wrath">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Item" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="6" />
+			<property name="Focus" value="4" />
+			<property name="Force" value="+4" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Siege • Unique. Battle: Bow this card and target a Region (at any location) or a Terrain: Destroy it. Battle: Bow this card: Ranged 4 Attack, with +1 strength if this Personality is Siege or Earth." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d105" name="Revelations">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Event" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Unique. Show the top five cards of your Dynasty deck. Choose another player who may discard one of the cards. Put the rest back in any order. Refill this province face-up." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d106" name="Riku">
+			<property name="Clan" value="Unaligned" />
+			<property name="Card Type" value="Personality" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="7" />
+			<property name="Focus" value="" />
+			<property name="Force" value="3" />
+			<property name="Chi" value="5" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="3" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="4" />
+			<property name="Text Box" value="Ronin • Samurai • Commander • Duelist • Yojimbo • Unique Reaction: When another player's action would target Tamahime: It targets Riku instead, if legal. Battle: Target an enemy Personality: Riku duels him. Destroy the duel's loser." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d107" name="Scandalous Gossip">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Strategy" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="1" />
+			<property name="Focus" value="3" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Political Open: If (and only if) this card is in your discard pile, remove it from the game and target a player: He must choose and bow one of his unbowed Personalities, if possible. Gain 1 Honor." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d108" name="Scorching Lash">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Spell" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="3" />
+			<property name="Focus" value="4" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Fire This Shugenja has Duelist while he is Fire.Battle/Open: Remove a non-Ring card in any discard pile from the game, and target a Personality: Give him +3F or -3F." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d109" name="Seppun Ryota">
+			<property name="Clan" value="Unaligned" />
+			<property name="Card Type" value="Personality" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="5" />
+			<property name="Focus" value="" />
+			<property name="Force" value="3" />
+			<property name="Chi" value="3" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="3" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="5" />
+			<property name="Text Box" value="Imperial • Samurai • Duelist • Paragon • Yojimbo Reaction: Before an action resolves that targeted a Personality at Ryota's location: He enters any duel created by its effects instead of the target." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d110" name="Shiba Tetsaka">
+			<property name="Clan" value="Phoenix" />
+			<property name="Card Type" value="Personality" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="8" />
+			<property name="Focus" value="" />
+			<property name="Force" value="4" />
+			<property name="Chi" value="4" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="1" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="-" />
+			<property name="Text Box" value="Phoenix Clan • Samurai • Duelist • Yojimbo Open: Bow your performing Shugenja: Give Tetsaka Cavalry or Naval." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d111" name="Shifting Waves">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Strategy" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="0" />
+			<property name="Focus" value="3" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Kiho Battle: Choose your performing unbowed Henshin and target a Personality: Switch the target's Force and Chi." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d112" name="Shinjo Sihung">
+			<property name="Clan" value="Unicorn" />
+			<property name="Card Type" value="Personality" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="8" />
+			<property name="Focus" value="" />
+			<property name="Force" value="4" />
+			<property name="Chi" value="3" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="2" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="4" />
+			<property name="Text Box" value="Unicorn Clan • Samurai • Tactician Reaction: After your Tactical action resolves: Give a Personality who performed it +2F." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d113" name="Shinjo Tselu">
+			<property name="Clan" value="Unicorn" />
+			<property name="Card Type" value="Personality" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="10" />
+			<property name="Focus" value="" />
+			<property name="Force" value="5" />
+			<property name="Chi" value="4" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="3" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="4" />
+			<property name="Text Box" value="Unicorn Clan • Imperial • Samurai • Cavalry • Commander • Magistrate • Unique • Ivory Champion Cavalry Followers attach to your Personalities paying 2 less Gold. After another player's action resolves which targeted Tselu: That player discards a card." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d114" name="Shosuro Makiko - exp">
+			<property name="Clan" value="Scorpion" />
+			<property name="Card Type" value="Personality" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="9" />
+			<property name="Focus" value="" />
+			<property name="Force" value="2" />
+			<property name="Chi" value="4" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="1" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="-" />
+			<property name="Text Box" value="Scorpion Clan • Courtier • Seductress • Experienced • Loyal • Unique. Political Open: Bow Makiko: Take the Imperial Favor. Political Reaction: Before an action resolves, bow Makiko: Reduce all Honor gains from it by 2." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d115" name="Shosuro Tanihara">
+			<property name="Clan" value="Scorpion" />
+			<property name="Card Type" value="Personality" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="5" />
+			<property name="Focus" value="" />
+			<property name="Force" value="3" />
+			<property name="Chi" value="2" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="0" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="-" />
+			<property name="Text Box" value="Scorpion Clan • Ninja. While Tanihara is attacking at a battlefield, its province has a maximum strength equal to its base strength." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d116" name="Soshi Shinoko">
+			<property name="Clan" value="Scorpion" />
+			<property name="Card Type" value="Personality" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="7" />
+			<property name="Focus" value="" />
+			<property name="Force" value="2" />
+			<property name="Chi" value="4" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="2" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="0" />
+			<property name="Text Box" value="Scorpion Clan • Courtier • Cavalry. Open: Target a Personality: Give him Brash (the Defender may draw a card after a Brash card is assigned to attack)." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d117" name="Spiritual Coalescence">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Strategy" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="0" />
+			<property name="Focus" value="3" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Battle/Open: Destroy your performing Spirit Personality and target another Spirit Personality: Give it a permanent Force bonus equal to the performer's Force. It permanently copies the performer's abilities which do not themselves copy abilities. You may take an additional action." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d118" name="Spoils of Exploration">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Strategy" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="0" />
+			<property name="Focus" value="3" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Kata. After a battle resolution ends in which you destroyed an army or province: Draw a card. Limited: Put this card into play. Discard all your other Kata in play." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d119" name="Sturdy Armor">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Item" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="4" />
+			<property name="Focus" value="2" />
+			<property name="Force" value="+2" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Armor. Battle: Three times per turn: Give this Personality +1F." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d120" name="Suck the Marrow">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Strategy" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="0" />
+			<property name="Focus" value="0" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Maho • Plague. Open: Bow and destroy your performing Shugenja and target a Personality: Give the target a -1F/-1C Poison token. Lose 3 Honor. Until the game ends, after each Events Phase begins, give the target a -1F/-1C Poison token." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d121" name="Sudden Blockade">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Strategy" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="3" />
+			<property name="Focus" value="3" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Open: If it is not the active player's first turn, target a province: Cards will not enter play from the province (this turn)." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d122" name="Sycophants">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Follower" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="5" />
+			<property name="Focus" value="2" />
+			<property name="Force" value="0" />
+			<property name="Chi" value="0" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="-" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="0" />
+			<property name="Text Box" value="Political Limited: Bow this card: Straighten this Personality. You may use his Political abilities that may only be used once per turn a second time (this turn)." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d123" name="Tactical Sacrifice">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Strategy" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="0" />
+			<property name="Focus" value="2" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Limited: Choose your performing unbowed Commander, destroy his performing Follower, and target a Follower, or Personality without attachments, with Gold Cost equal to or less than twice your Follower's Gold Cost: Destroy the target." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d124" name="Tamori Tsuchiya">
+			<property name="Clan" value="Dragon" />
+			<property name="Card Type" value="Personality" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="7" />
+			<property name="Focus" value="" />
+			<property name="Force" value="3" />
+			<property name="Chi" value="4" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="3" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="5" />
+			<property name="Text Box" value="Dragon Clan • Earth • Shugenja • Alchemist. Battle: If Tsuchiya is defending, destroy one of his Spells: Give him Stalwart and a Force bonus equal to his current Force. (Stalwart cards negate their first bowing each turn by other players' cards)." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d125" name="The Forgotten Bay Dojo">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Holding" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="3" />
+			<property name="Gold Cost" value="4" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Dojo. Bow this card: Produce 3 Gold. Battle: Target a Follower with a base Gold Cost of 1 or more: Raise its Force to 4." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d126" name="The Last Move">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Strategy" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="0" />
+			<property name="Focus" value="2" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Political. Battle: Destroy your performing unbowed Courtier and target an enemy Personality: Dishonor him. You may target and destroy a card without attachments in his unit." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d127" name="The Passing of Tradition">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Strategy" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="0" />
+			<property name="Focus" value="2" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Battle/Open: Choose your performing Personality and target your Personality: The performer permanently copies a keyword from target other than Courtier, Samurai, or Shugenja. Limited: Target your discarded Personality: Put him into your province (face-up) discarding the card currently there." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d128" name="The Sky's Barrier">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Spell" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="0" />
+			<property name="Focus" value="3" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Air. Battle: Destroy this card and target an attacking Personality: Give him Elite (Elite cards contribute Force even if bowed). He does not contribute Force while unbowed. If this Shugenja is Air, gain 2 Honor." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d129" name="The Tachikaze">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Holding" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="0" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Boat • Retainer. After an action resolves whose effects destroyed your Follower with a Gold Cost of 1 or more: You may put it face-up under this card. Battle/Limited: Any number of times per turn, target your Personality: Attach a Follower from under this card to him, paying all costs." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d130" name="The Thunderer's Protection">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Spell" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="6" />
+			<property name="Focus" value="1" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Thunder • Armor. This Personality has +4F. Reaction: After an action targets a card in this unit, bow this card: Bow the action's performers (if any) after the action resolves." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d131" name="Thunder Bow">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Item" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="4" />
+			<property name="Focus" value="2" />
+			<property name="Force" value="+3" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Thunder • Weapon. Negate other players' cards' effects that prevent this Personality performing actions. Battle/Open: Target your Personality at any location: Transfer this card to him." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d132" name="Togashi Mihato">
+			<property name="Clan" value="Dragon" />
+			<property name="Card Type" value="Personality" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="8" />
+			<property name="Focus" value="" />
+			<property name="Force" value="4" />
+			<property name="Chi" value="4" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="1" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="0" />
+			<property name="Text Box" value="Dragon Clan • Water • Monk • Tattooed. Battle: Target an enemy Personality: Move him home." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d133" name="Touch of the Night">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Strategy" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="0" />
+			<property name="Focus" value="2" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Ninja • Fear. Battle: Choose your performing unbowed Ninja Personality: Give each Personality and Follower opposing him -2F." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d134" name="Truce">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Strategy" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="0" />
+			<property name="Focus" value="2" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Reaction: When paying for a Personality with a Clan alignment different than your own: Produce 2 Gold." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d135" name="Trusting Instinct">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Strategy" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="0" />
+			<property name="Focus" value="1" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Reaction: After a Ranged or Melee attack is targeted: Give it -2 strength. Battle: Choose your performing Personality: Move him to a battlefield where he would be opposed." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d136" name="Uji's Saboteurs">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Follower" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="4" />
+			<property name="Focus" value="1" />
+			<property name="Force" value="3" />
+			<property name="Chi" value="0" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="-" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="1" />
+			<property name="Text Box" value="Scout. This Personality has Naval while he is Crane Clan. Battle: Target an enemy attachment: Destroy it." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d137" name="Unbound Essence">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Spell" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="5" />
+			<property name="Focus" value="0" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Void. Limited: Bow this Shugenja, destroy this card, and target a Personality who must be non-Unique unless this Shugenja is Void: Show cards from the top of the target's controller's Dynasty deck until you show a Personality or you show all cards in the deck. If you showed a Personality, overlay him on the target." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d138" name="Unseasonable Weather">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Event" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Unique. Until your next turn begins, after each time a Personality is assigned to attack, negate his straightening during his controller's next Straighten Phase (after he assigns)." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d139" name="Utaku Ji-Yun - exp">
+			<property name="Clan" value="Unicorn" />
+			<property name="Card Type" value="Personality" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="9" />
+			<property name="Focus" value="" />
+			<property name="Force" value="5" />
+			<property name="Chi" value="4" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="4" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="5" />
+			<property name="Text Box" value="Unicorn Clan • Imperial • Samurai • Battle Maiden • Cavalry • Magistrate • Paragon • Experienced • Unique • Emerald Champion. Your dishonorable Paragons do not have a maximum Personal Honor of 0 from the rulebook. Reaction: After engaging at Ji-Yun's battlefield, target a Personality opposing her: He may not use his abilities." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d140" name="Utaku Suying">
+			<property name="Clan" value="Unicorn" />
+			<property name="Card Type" value="Personality" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="8" />
+			<property name="Focus" value="" />
+			<property name="Force" value="4" />
+			<property name="Chi" value="3" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="3" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="4" />
+			<property name="Text Box" value="Unicorn Clan • Samurai • Battle Maiden • Cavalry • Paragon. After a battle resolution in which Suying's army destroyed a defending army or province: Gain 2 Honor." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d141" name="Vast Paddy Fields">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Holding" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="2" />
+			<property name="Gold Cost" value="2" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Farm. Bow this card: Produce 2 Gold. If this paid for a Farm Holding entering play from a province, refill the province face-up." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d142" name="Vital Pathways">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Strategy" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="0" />
+			<property name="Focus" value="1" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Terrain. After this battlefield's province is destroyed, if you are the Attacker: Draw a card, or two cards if your current army was ever opposed during this battle. Battle: If there is no Terrain in play at the current battlefield: Put this card into play there." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d143" name="Warded Premises">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Strategy" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="0" />
+			<property name="Focus" value="3" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Terrain. Before this battle's resolution: Negate all Force bonuses from actions to cards at this battlefield. Battle: Even if you control no units at the current battlefield, if there is no Terrain in play there: Put this card into play there." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d144" name="Without Mercy">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Strategy" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="0" />
+			<property name="Focus" value="1" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Dark Virtue • Determination. Reaction: After a Battle action performed by your Samurai Personality resolves, if the action did not target an enemy card: Take an additional Battle action." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d145" name="Witness the Untold">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Spell" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="0" />
+			<property name="Focus" value="2" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Void. Reaction: After your Ring enters play, bow this card: Look at the top three cards of your Dynasty or Fate deck. Put them back in any order." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d146" name="Yasuki Daito">
+			<property name="Clan" value="Crab" />
+			<property name="Card Type" value="Personality" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="8" />
+			<property name="Focus" value="" />
+			<property name="Force" value="2" />
+			<property name="Chi" value="4" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="0" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="-" />
+			<property name="Text Box" value="Crab Clan • Courtier • Merchant. Limited: Bow Daito or pay 4 Gold, and target a Personality: Daito bribes him. Negate the target's straightening until after the next Straighten Phase ends." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d147" name="Yoritomo Harumi">
+			<property name="Clan" value="Mantis" />
+			<property name="Card Type" value="Personality" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="11" />
+			<property name="Focus" value="" />
+			<property name="Force" value="4" />
+			<property name="Chi" value="5" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="4" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="2" />
+			<property name="Text Box" value="Mantis Clan • Earth • Thunder • Shugenja • Naval • Loyal • Unique. Once per battle, Harumi may perform the Equip Battle action even if bowed and even if unopposed. Battle: Target an enemy Follower or Personality without Followers: Give it -5F. Gain 2 Honor. If its Force is now 0 or you control Yoritomo Hiromi, destroy it. If it is still in play, you may take an additional Battle action." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d148" name="Yoritomo Hofu">
+			<property name="Clan" value="Mantis" />
+			<property name="Card Type" value="Personality" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="7" />
+			<property name="Focus" value="" />
+			<property name="Force" value="4" />
+			<property name="Chi" value="3" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="1" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="-" />
+			<property name="Text Box" value="Mantis Clan • Samurai • Conqueror • Magistrate • Naval • Captain of The Fourth Storm." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d149" name="Yoritomo Naoto - exp">
+			<property name="Clan" value="Mantis" />
+			<property name="Card Type" value="Personality" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="10" />
+			<property name="Focus" value="" />
+			<property name="Force" value="6" />
+			<property name="Chi" value="4" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="2" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="0" />
+			<property name="Text Box" value="Mantis Clan • Imperial • Samurai • Naval • Scout • Stalwart • Experienced • Unique • Imperial Explorer. Battle: Target an enemy Personality: Actions he or his Followers perform must target Naoto, if legal. You may take an additional Battle action." />
+		</card>
+		<card id="70ca92e5-7bf1-4e1c-80c5-ef01e897d150" name="Yoritomo Tansen">
+			<property name="Clan" value="Mantis" />
+			<property name="Card Type" value="Personality" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="6" />
+			<property name="Focus" value="" />
+			<property name="Force" value="2" />
+			<property name="Chi" value="3" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="1" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="-" />
+			<property name="Text Box" value="Mantis Clan • Samurai • Naval • Scout. Battle: Ranged 3 Attack or give the current battlefield's province's -3 strength." />
+		</card>
+	</cards>
+</set>

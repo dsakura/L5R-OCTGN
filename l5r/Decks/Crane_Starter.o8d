@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="1e2d5eef-7039-48b1-9060-bf6222416a3e">
+  <section name="Fate Deck">
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148021">Asahina House Guard</card>
+    <card qty="2" id="70544260-9ee4-4596-99f3-a4a33e148067">Chrysanthemum Blossom</card>
+    <card qty="3" id="658d1955-c22c-438d-b325-875e642fe056">Hida Defenders</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148270">Ring of Air</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148271">Ring of Earth</card>
+    <card qty="2" id="70544260-9ee4-4596-99f3-a4a33e148071">Cleansing the Path</card>
+    <card qty="2" id="658d1955-c22c-438d-b325-875e642fe043">Ember's Final Fire</card>
+    <card qty="2" id="658d1955-c22c-438d-b325-875e642fe005">Advance Warning</card>
+    <card qty="3" id="70544260-9ee4-4596-99f3-a4a33e148056">Block Supply Lines</card>
+    <card qty="2" id="c4610da5-9d8d-4f74-ba5a-94639cab3019">Bonds of Coin</card>
+    <card qty="2" id="658d1955-c22c-438d-b325-875e642fe039">Disrupting Communication</card>
+    <card qty="2" id="70544260-9ee4-4596-99f3-a4a33e148105">Encircled Terrain</card>
+    <card qty="2" id="70544260-9ee4-4596-99f3-a4a33e148108">Face of Ninube</card>
+    <card qty="2" id="70544260-9ee4-4596-99f3-a4a33e148136">Hard Pressed</card>
+    <card qty="2" id="70544260-9ee4-4596-99f3-a4a33e148251">Paid Off</card>
+    <card qty="2" id="658d1955-c22c-438d-b325-875e642fe102">Rocky Terrain</card>
+    <card qty="2" id="70544260-9ee4-4596-99f3-a4a33e148342">Tell the Tale</card>
+    <card qty="3" id="70544260-9ee4-4596-99f3-a4a33e148350">The Courtesy of the Crane</card>
+    <card qty="2" id="70544260-9ee4-4596-99f3-a4a33e148360">The Law's Strength</card>
+    <card qty="2" id="70544260-9ee4-4596-99f3-a4a33e148367">The Shadow Court</card>
+  </section>
+  <section name="Dynasty Deck">
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148101">Doji's Guidance</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148013">Akodo's Grave</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148112">Family Library</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148094">Delayed Arrival</card>
+    <card qty="2" id="70544260-9ee4-4596-99f3-a4a33e148202">Large Farm</card>
+    <card qty="2" id="70544260-9ee4-4596-99f3-a4a33e148312">Small Farm</card>
+    <card qty="2" id="70544260-9ee4-4596-99f3-a4a33e148414">Well-Tended Farm</card>
+    <card qty="3" id="70544260-9ee4-4596-99f3-a4a33e148208">Marketplace</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148260">Public Records</card>
+    <card qty="3" id="c4610da5-9d8d-4f74-ba5a-94639cab3100">Remote Village</card>
+    <card qty="3" id="70544260-9ee4-4596-99f3-a4a33e148024">Asahina Michiru</card>
+    <card qty="3" id="70544260-9ee4-4596-99f3-a4a33e148025">Asahina Yasutora</card>
+    <card qty="2" id="c4610da5-9d8d-4f74-ba5a-94639cab3025">Daidoji Ebizo</card>
+    <card qty="2" id="658d1955-c22c-438d-b325-875e642fe029">Daidoji Masafuni</card>
+    <card qty="3" id="70544260-9ee4-4596-99f3-a4a33e148080">Daidoji Tametaka</card>
+    <card qty="3" id="c4610da5-9d8d-4f74-ba5a-94639cab3034">Doji Dainagon</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148098">Doji Makoto</card>
+    <card qty="3" id="70544260-9ee4-4596-99f3-a4a33e148099">Doji Shunya</card>
+    <card qty="3" id="70544260-9ee4-4596-99f3-a4a33e148100">Doji Tatsuki</card>
+  </section>
+  <section name="Stronghold">
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148148">Hidden Falls Dojo</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148201">Kyuden Otomo</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148292">Shinden Asahina</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148347">The Aerie</card>
+  </section>
+  <section name="Special Holdings">
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148037">Bamboo Harvesters</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148058">Border Keep</card>
+  </section>
+</deck>

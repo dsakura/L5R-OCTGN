@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Emperor Edition Gempukku Extras" id="85f9b041-b48a-47dd-9199-d71daf236800" gameId="1e2d5eef-7039-48b1-9060-bf6222416a3e" gameVersion="1.3.0" version="3.0">
+	<cards>
+		<card id="85f9b041-b48a-47dd-9199-d71daf236801" name="Hida Yamadera - exp">
+			<property name="Clan" value="Crab" />
+			<property name="Card Type" value="Personality" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="12" />
+			<property name="Focus" value="" />
+			<property name="Force" value="8" />
+			<property name="Chi" value="3" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="0" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="-" />
+			<property name="Text Box" value="Crab Clan • Shadowlands • Berserker • Damned • Experienced • Unique" />
+		</card>
+		<card id="85f9b041-b48a-47dd-9199-d71daf236802" name="The Yasuki Peddler">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Holding" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="2" />
+			<property name="Gold Cost" value="3" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Text &#x9;Market • Retainer • Unique. Bow this card: Produce 2 Gold. Limited: If you have four or fewer cards in your hand and you are a Crab Clan player, bow this card: Draw a card." />
+		</card>
+		<card id="85f9b041-b48a-47dd-9199-d71daf236803" name="Doji Dainagon - exp">
+			<property name="Clan" value="Crane" />
+			<property name="Card Type" value="Personality" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="7" />
+			<property name="Focus" value="" />
+			<property name="Force" value="2" />
+			<property name="Chi" value="4" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="3" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="6" />
+			<property name="Text Box" value="Courtier • Crane Clan • Experienced • Imperial • Unique. Political Open: Take the Imperial Favor." />
+		</card>
+		<card id="85f9b041-b48a-47dd-9199-d71daf236804" name="The Daidoji Marketplace">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Holding" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="2" />
+			<property name="Gold Cost" value="3" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Market • Retainer • Unique. Bow this card: Produce 2 Gold. Limited: If you have four or fewer cards in your hand and you are a Crane Clan player, bow this card: Draw a card." />
+		</card>
+		<card id="85f9b041-b48a-47dd-9199-d71daf236805" name="Purveyor of Questionable Goods">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Holding" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="2" />
+			<property name="Gold Cost" value="3" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Market • Retainer • Unique. Bow this card: Produce 2 Gold. Limited: If you have four or fewer cards in your hand and you are a Spider Clan player, bow this card: Draw a card." />
+		</card>
+		<card id="85f9b041-b48a-47dd-9199-d71daf236806" name="Togashi Korimi - exp2">
+			<property name="Clan" value="Dragon" />
+			<property name="Card Type" value="Personality" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="11" />
+			<property name="Focus" value="" />
+			<property name="Force" value="6" />
+			<property name="Chi" value="4" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="2" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="4" />
+			<property name="Text Box" value="Dragon Clan • Earth • Experienced 2 • Monk • Tattooed • Unique. Limited: Draw a card." />
+		</card>
+		<card id="85f9b041-b48a-47dd-9199-d71daf236807" name="Tattoos &amp; Trinkets">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Holding" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="2" />
+			<property name="Gold Cost" value="3" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Market • Retainer • Unique. Bow this card: Produce 2 Gold. Limited: If you have four or fewer cards in your hand and you are a Dragon Clan player, bow this card: Draw a card." />
+		</card>
+		<card id="85f9b041-b48a-47dd-9199-d71daf236808" name="Jade's Roar - exp">
+			<property name="Clan" value="Lion" />
+			<property name="Card Type" value="Personality" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="7" />
+			<property name="Focus" value="" />
+			<property name="Force" value="4" />
+			<property name="Chi" value="2" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="0" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="-" />
+			<property name="Text Box" value="Lion Clan • Nonhuman • Lion • Scout • Experienced Pride of the Hand • Unique • Legendary. Recon Reaction: After engaging at Jade's Roar's battlefield: You have Reconnaissance there. You have the first opportunity to take a Battle action in this battle, which must be a Terrain action." />
+		</card>
+		<card id="85f9b041-b48a-47dd-9199-d71daf236809" name="The Quartermaster's Depot">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Holding" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="2" />
+			<property name="Gold Cost" value="3" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Market • Retainer • Unique. Bow this card: Produce 2 Gold. Limited: If you have four or fewer cards in your hand and you are a Lion Clan player, bow this card: Draw a card." />
+		</card>
+		<card id="85f9b041-b48a-47dd-9199-d71daf236810" name="Moshi Madoka - exp">
+			<property name="Clan" value="Mantis" />
+			<property name="Card Type" value="Personality" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="6" />
+			<property name="Focus" value="" />
+			<property name="Force" value="3" />
+			<property name="Chi" value="3" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="2" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="2" />
+			<property name="Text Box" value="Mantis Clan • Thunder • Shugenja • Scout • Experienced • Unique. Limited: If you have attached a card from your hand this turn, bow Madoka: Draw a card." />
+		</card>
+		<card id="85f9b041-b48a-47dd-9199-d71daf236811" name="Buried Treasures">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Holding" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="2" />
+			<property name="Gold Cost" value="3" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Market • Retainer • Unique. Bow this card: Produce 2 Gold. Limited: If you have four or fewer cards in your hand and you are a Mantis Clan player, bow this card: Draw a card." />
+		</card>
+		<card id="85f9b041-b48a-47dd-9199-d71daf236812" name="Kunji - exp">
+			<property name="Clan" value="Phoenix" />
+			<property name="Card Type" value="Personality" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="8" />
+			<property name="Focus" value="" />
+			<property name="Force" value="3" />
+			<property name="Chi" value="4" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="1" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="-" />
+			<property name="Text Box" value="Phoenix Clan • Nonhuman • Fenghuang • Fire • Shugenja • Cavalry • Experienced • Unique. Open: If Kunji is honorably dead: Bring it into play, ignoring costs if you are a Phoenix Clan player." />
+		</card>
+		<card id="85f9b041-b48a-47dd-9199-d71daf236813" name="The Mystical Merchant">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Holding" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="2" />
+			<property name="Gold Cost" value="3" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Market • Retainer • Unique. Bow this card: Produce 2 Gold. Limited: If you have four or fewer cards in your hand and you are a Phoenix Clan player, bow this card: Draw a card." />
+		</card>
+		<card id="85f9b041-b48a-47dd-9199-d71daf236814" name="Shosuro Hawado - exp2">
+			<property name="Clan" value="Scorpion" />
+			<property name="Card Type" value="Personality" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="8" />
+			<property name="Focus" value="" />
+			<property name="Force" value="4" />
+			<property name="Chi" value="3" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="0" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="-" />
+			<property name="Text Box" value="Scorpion Clan • Ninja • Shadowspawn • Experienced 2 • Unique. Limited: Target a card in a province: Discard it. Refill the province face-up." />
+		</card>
+		<card id="85f9b041-b48a-47dd-9199-d71daf236815" name="The Merchants' District">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Holding" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="2" />
+			<property name="Gold Cost" value="3" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Market • Retainer • Unique. Bow this card: Produce 2 Gold. Limited: If you have four or fewer cards in your hand and you are a Scorpion Clan player, bow this card: Draw a card." />
+		</card>
+		<card id="85f9b041-b48a-47dd-9199-d71daf236816" name="Daigotsu Negishi - exp">
+			<property name="Clan" value="Spider" />
+			<property name="Card Type" value="Personality" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="9" />
+			<property name="Focus" value="" />
+			<property name="Force" value="5" />
+			<property name="Chi" value="2" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="0" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="-" />
+			<property name="Text Box" value="Spider Clan • Shadowlands • Samurai • Commander • Conqueror • Experienced • Loyal • Unique. After Negishi enters play: Lose 2 Honor. Negate Negishi's destruction from effects of actions performed by any Personality whose unit's total Gold Cost was lower than Negishi's unit's (when they performed it)." />
+		</card>
+		<card id="85f9b041-b48a-47dd-9199-d71daf236817" name="Shinjo Byung - exp">
+			<property name="Clan" value="Unicorn" />
+			<property name="Card Type" value="Personality" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="8" />
+			<property name="Focus" value="" />
+			<property name="Force" value="3" />
+			<property name="Chi" value="3" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="2" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="4" />
+			<property name="Text Box" value="Unicorn Clan • Samurai • Cavalry • Tactician • Experienced • Unique. Reaction: After a Tactical Battle action resolves that Byung performed: Take an additional Battle action." />
+		</card>
+		<card id="85f9b041-b48a-47dd-9199-d71daf236818" name="The Ide Caravan">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Holding" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="2" />
+			<property name="Gold Cost" value="3" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Market • Retainer • Unique. Bow this card: Produce 2 Gold. Limited: If you have four or fewer cards in your hand and you are a Unicorn Clan player, bow this card: Draw a card." />
+		</card>
+	</cards>
+</set>

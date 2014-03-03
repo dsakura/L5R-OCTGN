@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="1e2d5eef-7039-48b1-9060-bf6222416a3e">
+  <section name="Fate Deck">
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148338">Tamori House Guard</card>
+    <card qty="2" id="70544260-9ee4-4596-99f3-a4a33e148405">Veteran Skirmishers</card>
+    <card qty="2" id="70544260-9ee4-4596-99f3-a4a33e148407">Village Guardian</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148270">Ring of Air</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148271">Ring of Earth</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148274">Ring of Water</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148075">Contemplate the Void</card>
+    <card qty="2" id="c4610da5-9d8d-4f74-ba5a-94639cab3023">Control Your Destiny</card>
+    <card qty="2" id="658d1955-c22c-438d-b325-875e642fe041">Drawing on the Mountain</card>
+    <card qty="2" id="70544260-9ee4-4596-99f3-a4a33e148281">Scouring Flood</card>
+    <card qty="3" id="70544260-9ee4-4596-99f3-a4a33e148059">Breath of the Heavens</card>
+    <card qty="2" id="70544260-9ee4-4596-99f3-a4a33e148056">Block Supply Lines</card>
+    <card qty="3" id="c4610da5-9d8d-4f74-ba5a-94639cab3039">Engulfing Flames</card>
+    <card qty="2" id="70544260-9ee4-4596-99f3-a4a33e148108">Face of Ninube</card>
+    <card qty="3" id="70544260-9ee4-4596-99f3-a4a33e148109">Fall Back!</card>
+    <card qty="3" id="70544260-9ee4-4596-99f3-a4a33e148110">Falling Leaf Strike</card>
+    <card qty="2" id="70544260-9ee4-4596-99f3-a4a33e148321">Spinning Heel Kick</card>
+    <card qty="3" id="70544260-9ee4-4596-99f3-a4a33e148369">The Sincerity of the Dragon</card>
+    <card qty="2" id="658d1955-c22c-438d-b325-875e642fe148">Tsunami Tattoo</card>
+    <card qty="2" id="c4610da5-9d8d-4f74-ba5a-94639cab3151">Volcano Tattoo</card>
+  </section>
+  <section name="Dynasty Deck">
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148379">Togashi's Guidance</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148416">Wisdom Gained</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148013">Akodo's Grave</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148112">Family Library</card>
+    <card qty="3" id="70544260-9ee4-4596-99f3-a4a33e148130">Gold Mine</card>
+    <card qty="3" id="70544260-9ee4-4596-99f3-a4a33e148202">Large Farm</card>
+    <card qty="3" id="70544260-9ee4-4596-99f3-a4a33e148312">Small Farm</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148260">Public Records</card>
+    <card qty="3" id="c4610da5-9d8d-4f74-ba5a-94639cab3100">Remote Village</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148220">Mirumoto Shikei</card>
+    <card qty="3" id="70544260-9ee4-4596-99f3-a4a33e148340">Tamori Muzu</card>
+    <card qty="2" id="70544260-9ee4-4596-99f3-a4a33e148341">Tamori Tomaru</card>
+    <card qty="2" id="c4610da5-9d8d-4f74-ba5a-94639cab3135">Tamori Yayu</card>
+    <card qty="3" id="c4610da5-9d8d-4f74-ba5a-94639cab3142">Togashi Hizumi</card>
+    <card qty="3" id="70544260-9ee4-4596-99f3-a4a33e148376">Togashi Korimi</card>
+    <card qty="3" id="c4610da5-9d8d-4f74-ba5a-94639cab3143">Togashi Meiyu</card>
+    <card qty="3" id="70544260-9ee4-4596-99f3-a4a33e148377">Togashi Torazu</card>
+    <card qty="3" id="70544260-9ee4-4596-99f3-a4a33e148378">Togashi Tsukagi</card>
+  </section>
+  <section name="Stronghold">
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148102">Dragon's Breath Castle</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148118">Foothills Keep</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148253">Pillars of Virtue</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148411">Watchful Eye Dojo</card>
+    <card qty="1" id="c4610da5-9d8d-4f74-ba5a-94639cab3036">Dragon's Breath Castle</card>
+  </section>
+  <section name="Special Holdings">
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148037">Bamboo Harvesters</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148058">Border Keep</card>
+  </section>
+</deck>

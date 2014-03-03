@@ -1,0 +1,1143 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="L5R Markers &amp; Tokens" id="e013f9b7-a7ed-488f-8002-09d29ec2eb41" gameId="1e2d5eef-7039-48b1-9060-bf6222416a3e" gameVersion="1.3.0" version="3.0">
+	<markers>
+		<marker id="84895650-69ef-483f-93bc-9def2b9b7fed" name="Chi" />
+		<marker id="a40f5a18-2a70-46ca-814d-0ad6963db239" name="Force" />
+		<marker id="eac0f42f-d696-4e20-9d3f-aa91f3ace4fa" name="Chi_Lower" />
+		<marker id="495b401f-8d92-4af2-b1e4-e637c952b1eb" name="Force_Lower" />
+		<marker id="6062029c-640e-4c87-9d90-8905ea2872c0" name="Sake" />
+		<marker id="945fb1f1-0794-4f3b-a3f2-ac4576308bb0" name="Fire" />
+		<marker id="b45d337d-72ae-43b4-847f-2b951d1820d6" name="Gold" />
+		<marker id="8f0a96c6-6f54-4da2-97f9-85e8f721b6e9" name="Poison" />
+		<marker id="c7312c64-e69f-4984-9bd1-24fc320e39d7" name="Madness" />
+		<marker id="4b5a3d9e-ece1-40fd-8a9a-356900449342" name="Fudo" />
+	</markers>
+	<cards>
+		<card id="1b119d3b-85fc-4133-a689-f052fd873d80" name="Air Yari">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Token" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="0" />
+			<property name="Focus" value="0" />
+			<property name="Force" value="1" />
+			<property name="Chi" value="1" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="May not be included in decks.
+Battle: Give each Personality and Follower in the enemy army -1F." />
+		</card>
+		<card id="8637fcc8-b4db-45cc-b8d7-e48d39fba57e" name="Humble Farmers">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Token" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="0" />
+			<property name="Focus" value="0" />
+			<property name="Force" value="2" />
+			<property name="Chi" value="0" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="-" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="0" />
+			<property name="Text Box" value="Ashigaru  May not be included in decks." />
+		</card>
+		<card id="83de4c8a-a40b-4804-af92-4a233ad431a5" name="Kakita Armor">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Token" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="0" />
+			<property name="Focus" value="0" />
+			<property name="Force" value="2" />
+			<property name="Chi" value="0" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Armor  May not be included in decks. Melee and Ranged Attacks targeting this Personality have -3 strength." />
+		</card>
+		<card id="a7ce382c-24bb-4ee4-90ab-a0913a2216fd" name="Kichi's Badger">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Token" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="0" />
+			<property name="Focus" value="" />
+			<property name="Force" value="3" />
+			<property name="Chi" value="2" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="3" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="-" />
+			<property name="Text Box" value="Mantis Clan • Nonhuman • Badger • Spirit  May not be included in decks. Battle: Target an enemy Personality: Reduce his Force to 0." />
+		</card>
+		<card id="5732d45e-e15c-4fd0-aab5-fa884058d9b9" name="Maimed Retainer">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Token" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="0" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Maimed • Retainer  May not be included in decks. Battle/Open: Destroy this card and target a Personality: Straighten him. Rehonor him." />
+		</card>
+		<card id="e3b8e6c4-18d4-4f9e-bc28-8a0e121d0967" name="Imperial Favor">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Token" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="" />
+		</card>
+		<card id="fef8f2e8-08e5-4d93-8452-c8a1cc8f36ae" name="Imperial Favor">
+			<property name="Clan" value="Crab" />
+			<property name="Card Type" value="Token" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Favor Political Limited: Discard the Imperial Favor and a card: Draw a card.  Favor Political Battle: Discard the Imperial Favor and target an attacking enemy Personality: Move him home." />
+		</card>
+		<card id="2aee8043-9a1c-4e41-8fbf-87f289d98b4b" name="Imperial Favor">
+			<property name="Clan" value="Crane" />
+			<property name="Card Type" value="Token" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Favor Political Limited: Discard the Imperial Favor and a card: Draw a card.  Favor Political Battle: Discard the Imperial Favor and target an attacking enemy Personality: Move him home." />
+		</card>
+		<card id="75aa0463-369a-403c-b7cf-df342f0d294d" name="Imperial Favor">
+			<property name="Clan" value="Dragon" />
+			<property name="Card Type" value="Token" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Favor Political Limited: Discard the Imperial Favor and a card: Draw a card.  Favor Political Battle: Discard the Imperial Favor and target an attacking enemy Personality: Move him home." />
+		</card>
+		<card id="4934c2d2-b1c7-4cf5-be6b-7750627a1595" name="Imperial Favor">
+			<property name="Clan" value="Lion" />
+			<property name="Card Type" value="Token" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Favor Political Limited: Discard the Imperial Favor and a card: Draw a card.  Favor Political Battle: Discard the Imperial Favor and target an attacking enemy Personality: Move him home." />
+		</card>
+		<card id="8d945b55-c0f6-4f2a-8fc2-78a6cbc0973f" name="Imperial Favor">
+			<property name="Clan" value="Mantis" />
+			<property name="Card Type" value="Token" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Favor Political Limited: Discard the Imperial Favor and a card: Draw a card.  Favor Political Battle: Discard the Imperial Favor and target an attacking enemy Personality: Move him home." />
+		</card>
+		<card id="3c20e13b-d7bb-4bf5-a15a-43e3ca5086a5" name="Imperial Favor">
+			<property name="Clan" value="Phoenix" />
+			<property name="Card Type" value="Token" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Favor Political Limited: Discard the Imperial Favor and a card: Draw a card.  Favor Political Battle: Discard the Imperial Favor and target an attacking enemy Personality: Move him home." />
+		</card>
+		<card id="12494b73-3bd0-4403-9ecd-a65c7f73441a" name="Imperial Favor">
+			<property name="Clan" value="Scorpion" />
+			<property name="Card Type" value="Token" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Favor Political Limited: Discard the Imperial Favor and a card: Draw a card.  Favor Political Battle: Discard the Imperial Favor and target an attacking enemy Personality: Move him home." />
+		</card>
+		<card id="23b40230-79cd-4b82-ad80-d6788e634880" name="Imperial Favor">
+			<property name="Clan" value="Spider" />
+			<property name="Card Type" value="Token" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Favor Political Limited: Discard the Imperial Favor and a card: Draw a card.  Favor Political Battle: Discard the Imperial Favor and target an attacking enemy Personality: Move him home." />
+		</card>
+		<card id="0874f63b-44a3-4aac-a568-68b440754d80" name="Imperial Favor">
+			<property name="Clan" value="Unicorn" />
+			<property name="Card Type" value="Token" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Favor Political Limited: Discard the Imperial Favor and a card: Draw a card.  Favor Political Battle: Discard the Imperial Favor and target an attacking enemy Personality: Move him home." />
+		</card>
+		<card id="1ba3a020-8881-45b3-84f9-6c0621320aef" name="Questionable Resources">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Token" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="May not be included in decks.  Bow this card: Produce 3 Gold." />
+		</card>
+		<card id="5a8be212-2b20-41fb-9a62-4fb798968e10" name="Lion Ancestor">
+			<property name="Clan" value="Lion" />
+			<property name="Card Type" value="Token" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="LION CLAN • SAMURAI • ANCESTOR • SPIRIT  May not be included in decks." />
+		</card>
+		<card id="b4dbf31d-c437-4c7c-afe3-5aa36304b66d" name="Lion Ancestor">
+			<property name="Clan" value="Lion" />
+			<property name="Card Type" value="Token" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="LION CLAN • SAMURAI • ANCESTOR • SPIRIT  May not be included in decks." />
+		</card>
+		<card id="3b3b31d2-3a43-4a26-baaa-43f06b89a01f" name="Lion Ancestor">
+			<property name="Clan" value="Lion" />
+			<property name="Card Type" value="Token" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="LION CLAN • SAMURAI • ANCESTOR • SPIRIT  May not be included in decks." />
+		</card>
+		<card id="8ca790ec-3261-4263-9656-5b6810bef265" name="Lion Ancestor">
+			<property name="Clan" value="Lion" />
+			<property name="Card Type" value="Token" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="LION CLAN • SAMURAI • ANCESTOR • SPIRIT  May not be included in decks." />
+		</card>
+		<card id="338ba38b-c048-467a-b970-297e9ae98bab" name="Oathsworn Deathseeker">
+			<property name="Clan" value="Lion" />
+			<property name="Card Type" value="Token" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="LION CLAN • SAMURAI • DEATHSEEKER  May not be included in decks." />
+		</card>
+		<card id="9a40ee59-4453-43d8-a257-ffe84825f8f9" name="Denhei's Snake">
+			<property name="Clan" value="Mantis" />
+			<property name="Card Type" value="Token" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="MANTIS CLAN • NONHUMAN • SNAKE • SPIRIT  May not be included in decks.  Open: Target a Personality: He is bitten. His base abilities may not be used." />
+		</card>
+		<card id="9e0d37cf-6c6c-4361-ab9d-9e0062a1faf3" name="Gina's Fox">
+			<property name="Clan" value="Mantis" />
+			<property name="Card Type" value="Token" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="MANTIS CLAN • NONHUMAN • FOX • SPIRIT  May not be included in decks.  Enemy attacking Personalities and Followers at this card's battlefield have -1F." />
+		</card>
+		<card id="2002621e-e1c0-42a2-ae5e-12ee4372f4e6" name="Haruki's Deer">
+			<property name="Clan" value="Mantis" />
+			<property name="Card Type" value="Token" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="MANTIS CLAN • NONHUMAN • DEER • SPIRIT  May not be included in decks.  Limited: If another player has higher Family Honor than you: Gain 2 Honor." />
+		</card>
+		<card id="c7252089-3103-43db-9747-0805c7fe8a0a" name="Hisano's Guide">
+			<property name="Clan" value="Mantis" />
+			<property name="Card Type" value="Token" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="MANTIS CLAN • NONHUMAN • FOX • SPIRIT • UNIQUE  May not be included in decks.  Battle: Target an enemy attacking Personality: Move him home.  " />
+		</card>
+		<card id="78e432c9-b0b7-4a46-a429-617865d69f48" name="Merihiko's Swarm">
+			<property name="Clan" value="Mantis" />
+			<property name="Card Type" value="Token" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="MANTIS CLAN • NONHUMAN • BEE • CAVALRY • SWARM • SPIRIT  May not be included in decks.  Battle: Bow this card: Ranged 4 Attack." />
+		</card>
+		<card id="1177765b-be06-442f-87d4-023d4600bcbb" name="Ohsuki's Sparrow">
+			<property name="Clan" value="Mantis" />
+			<property name="Card Type" value="Token" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="MANTIS CLAN • NONHUMAN • SPARROW • CAVALRY • SPIRIT  May not be included in decks.  Limited: If none of your provinces were destroyed since your last turn ended: Gain 3 Honor." />
+		</card>
+		<card id="bf496051-7c5d-4b47-8207-4225ba05be7f" name="Tokoru's Bear">
+			<property name="Clan" value="Mantis" />
+			<property name="Card Type" value="Token" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="MANTIS CLAN • NONHUMAN • BEAR • SPIRIT  May not be included in decks.  Battle: Target an attacking enemy card: Bow it. Destroy it if it is an attachment." />
+		</card>
+		<card id="22356e4e-65ea-4366-a65f-9ebc1995f700" name="Ninja">
+			<property name="Clan" value="Scorpion" />
+			<property name="Card Type" value="Token" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="SCORPION CLAN • NINJA  May not be included in decks." />
+		</card>
+		<card id="951c0218-0c49-40d6-8fb4-e848c1f6bb38" name="Rokuta's Apprentice">
+			<property name="Clan" value="Scorpion" />
+			<property name="Card Type" value="Token" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="SCORPION CLAN • COURTIER • APPRENTICE  May not be included in decks." />
+		</card>
+		<card id="b221d356-b376-4f29-83d7-76b8e541248a" name="Goju Genin">
+			<property name="Clan" value="Spider" />
+			<property name="Card Type" value="Token" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="SPIDER CLAN • SHADOWLANDS • NINJA  May not be included in decks. " />
+		</card>
+		<card id="e8f8bbd6-0ff9-4c3d-8199-092eaec1ae71" name="Assassin">
+			<property name="Clan" value="Unaligned" />
+			<property name="Card Type" value="Token" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="ASSASSIN • DUELIST  May not be included in decks." />
+		</card>
+		<card id="6de1ad75-4bda-4370-a120-16837fd84487" name="Detached Personality">
+			<property name="Clan" value="Unaligned" />
+			<property name="Card Type" value="Token" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="SAMURAI • CAVALRY  May not be included in decks.  This card has your Clan alignment keyword." />
+		</card>
+		<card id="4df6a349-7269-47cc-bda4-7ea01d961b38" name="Emerald Magistrate">
+			<property name="Clan" value="Unaligned" />
+			<property name="Card Type" value="Token" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="IMPERIAL • SAMURAI • DUELIST • MAGISTRATE  May not be included in decks." />
+		</card>
+		<card id="a580edde-aa0e-402c-9264-2d83d72927dd" name="Fresh Recruit">
+			<property name="Clan" value="Unaligned" />
+			<property name="Card Type" value="Token" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="RONIN • SAMURAI  May not be included in decks." />
+		</card>
+		<card id="4b46d41b-0aab-4d4c-bca6-aa2b3c401ec6" name="Guest">
+			<property name="Clan" value="Unaligned" />
+			<property name="Card Type" value="Token" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="MONK  May not be included in decks." />
+		</card>
+		<card id="1ff546c5-afdb-46dc-b2b4-984268478daa" name="The Walking Dead">
+			<property name="Clan" value="Unaligned" />
+			<property name="Card Type" value="Token" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="SHADOWLANDS • UNDEAD  May not be included in decks." />
+		</card>
+		<card id="3eb19f66-a5a9-4d32-bd7c-3803f50bb203" name="Venerated Sensei">
+			<property name="Clan" value="Unaligned" />
+			<property name="Card Type" value="Token" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="-" />
+			<property name="Text Box" value="SAMURAI  May not be included in decks.  This card has your Clan alignment keyword." />
+		</card>
+		<card id="0edd6214-3e95-443a-ad44-eb42c48ef584" name="Witness">
+			<property name="Clan" value="Unaligned" />
+			<property name="Card Type" value="Token" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="SAMURAI  May not be included in decks.  This card has your Clan alignment keyword." />
+		</card>
+		<card id="68ce8d5d-dbfa-419e-bed2-bb1193af7701" name="Your Name is Mine">
+			<property name="Clan" value="Unaligned" />
+			<property name="Card Type" value="Token" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="SHADOWLANDS • NONHUMAN • ONI  May not be included in decks.  This card has the title and base Gold Cost of the Personality who performed Akuma's Power action." />
+		</card>
+		<card id="16ab09df-56b0-48a2-a3bf-5ddd7b7cffeb" name="Dak-ho's Men">
+			<property name="Clan" value="Unicorn" />
+			<property name="Card Type" value="Token" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="UNICORN CLAN • SAMURAI • CAVALRY • SCOUT  May not be included in decks." />
+		</card>
+		<card id="736caf74-e3a9-4170-a3a3-5a5c50a14fc0" name="Aviary Falcon">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Token" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="NONHUMAN • FALCON • CAVALRY  May not be included in decks." />
+		</card>
+		<card id="396b7f25-35e7-4cb6-ab9a-0db8cad0772d" name="Birds of Prey">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Token" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="SHADOWLANDS • NONHUMAN • RAPTOR • CAVALRY • UNDEAD  May not be included in decks." />
+		</card>
+		<card id="b45beb41-671d-41e2-a564-75e74c55cc2a" name="Dutiful Cavalry">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Token" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="CAVALRY  May not be included in decks." />
+		</card>
+		<card id="d1c4b036-de7d-4696-8403-3f334677d860" name="Farmlands Conscripts">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Token" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="May not be included in decks." />
+		</card>
+		<card id="34d6f407-2f1b-4a3a-99f7-ba62c8273749" name="Fledgling Ashigaru">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Token" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="ASHIGARU  May not be included in decks." />
+		</card>
+		<card id="7aacb420-2145-4b4b-8339-16d944021cdd" name="Infantry Follower">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Token" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="May not be included in decks." />
+		</card>
+		<card id="90d79268-f855-42ac-9da0-c59b4be30880" name="Kobashi's Spawn">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Token" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="SHADOWLANDS • NINJA  May not be included in decks." />
+		</card>
+		<card id="cb6bd73b-c881-44f9-afec-8f4de7cacb89" name="Kyuden Hida Scout">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Token" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="SCOUT  May not be included in decks." />
+		</card>
+		<card id="2b184a0d-bd85-4e73-89f0-0443bbb56aea" name="Kyuden Hida Survivor">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Token" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="SCOUT  May not be included in decks." />
+		</card>
+		<card id="094dd734-c90f-4505-861e-6f3549bdf4e2" name="Mounted Ashigaru">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Token" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="ASHIGARU • CAVALRY  May not be included in decks." />
+		</card>
+		<card id="2de61b79-6cca-4150-b34b-ef558b7777bd" name="Nakanu's Creations">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Token" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="SHADOWLANDS • UNDEAD  May not be included in decks." />
+		</card>
+		<card id="849a64bc-e053-4da5-9533-4544602c5a3d" name="Ronin Follower">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Token" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="RONIN  May not be included in decks." />
+		</card>
+		<card id="30f1108f-7b3d-4b45-9f89-d1852eab2e6f" name="Suiteiru's Podling">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Token" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="SHADOWLANDS • NONHUMAN • ONI  May not be included in decks." />
+		</card>
+		<card id="9c6153c6-09c8-46aa-b2b9-0505989773c9" name="Swamp Spirit">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Token" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="SHADOWLANDS • NONHUMAN • SWAMP SPIRIT • SPIRIT  May not be included in decks." />
+		</card>
+		<card id="a501e40b-1859-42db-9e82-e545d57753f1" name="Flame Katana">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Token" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="FIRE • WEAPON  May not be included in decks.  Battle: Bow this card unless this Personality is Fire, and target an enemy card without attachments: Destroy it." />
+		</card>
+		<card id="f9b51cda-7293-48ac-b3f3-a7e849ac1d73" name="Kaiu Armor">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Token" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="ARMOR  May not be included in decks." />
+		</card>
+		<card id="85fc3ec8-666c-4148-b1fd-7b40517ae6be" name="Masayoshi's Blade">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Token" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="WEAPON  May not be included in decks." />
+		</card>
+		<card id="fbdcc96b-3dbf-4bf7-9ca6-4b9774d49dec" name="Tsi Weapon">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Token" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="WEAPON  May not be included in decks." />
+		</card>
+		<card id="d2902620-c3ad-48ed-89b7-fa8f95e2ce4e" name="Tsi Weapon">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Token" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="WEAPON  May not be included in decks." />
+		</card>
+		<card id="d3140056-a8f6-425e-9b71-ab3f7b565a64" name="Water Bo">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Token" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="WATER • WEAPON  May not be included in decks.  Battle: Target an enemy card without attachments: Bow it." />
+		</card>
+		<card id="f1e06c2e-de79-4180-81f9-8b26341270fd" name="Yasunori's Gift">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Token" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="WEAPON  May not be included in decks." />
+		</card>
+		<card id="2f89f875-b567-4f6d-a4fb-315c924eca05" name="Plain of Gold">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Token" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="TERRAIN  May not be included in decks.  Battle: If this card is in play, destroy it and target a Terrain in your hand: Take an additional Battle action to play it." />
+		</card>
+		<card id="653cefc3-88a1-4a17-8733-c82603101f2c" name="The Governor's Estate">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Token" />
+			<property name="Strength of Province" value="7" />
+			<property name="Gold Production" value="4" />
+			<property name="Gold Cost" value="" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="8" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="Your face-down Dynasty cards in play are Holdings with the trait, &quot;Bow this card: Produce 2 Gold.&quot;  Twice per turn, after your Dynasty Phase begins: You may pay 2 Gold; if you did, turn a card in your province face-down (if needed) and put it into play bowed.  Limited: Gain 2 Honor. You may not declare an attack.  Battle: Even if this card is bowed, discard a card and target a Personality: Give him +2F or -2F." />
+		</card>
+		<card id="731a832c-b8c1-4711-b34e-34b7b699bada" name="The False Nimuro">
+			<property name="Clan" value="Lion" />
+			<property name="Card Type" value="Token" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="0" />
+			<property name="Focus" value="" />
+			<property name="Force" value="5" />
+			<property name="Chi" value="5" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="4" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="-" />
+			<property name="Text Box" value="LION CLAN CLAN CHAMPION SAMURAI DUELIST EXPERIENCED 2 LOYAL TACTICIAN UNIQUE" />
+		</card>
+		<card id="fa8a8483-286b-4076-b3d8-ac4e7a1199fd" name="Bat">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Token" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="0" />
+			<property name="Focus" value="" />
+			<property name="Force" value="0" />
+			<property name="Chi" value="2" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="0" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="-" />
+			<property name="Text Box" value="NONHUMAN BAT CAVALRY" />
+		</card>
+		<card id="839dc78b-8cbe-46bd-b7e1-23442fd323fc" name="Imposter">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Token" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="*" />
+			<property name="Focus" value="" />
+			<property name="Force" value="*" />
+			<property name="Chi" value="*" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="*" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="*" />
+			<property name="Text Box" value="This Personality's printed stats, keywords, and text box are the same as the copied Personality's printed stats, keywords, and text box." />
+		</card>
+		<card id="dfe415ec-ea08-49a5-b160-7599ee376a5b" name="Renyu's Dog">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Token" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="0" />
+			<property name="Focus" value="" />
+			<property name="Force" value="1" />
+			<property name="Chi" value="0" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="NONHUMAN DOG" />
+		</card>
+		<card id="be71da12-86ba-497c-b684-52948e2716a2" name="Province">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="" />
+		</card>
+		<card id="be71da12-86ba-497c-b684-52948e271601" name="Yuribara's Butterflies">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Token" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="0" />
+			<property name="Focus" value="" />
+			<property name="Force" value="0" />
+			<property name="Chi" value="2" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="3" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="-" />
+			<property name="Text Box" value="Spirit • Nonhuman • Mantis Clan • Cavalry • Butterfly  May not be included in decks. Other player's Battle actions must target a Butterfly Personality at this battlefield, if legal. After another player's Battle action targets this card: Destroy this card." />
+		</card>
+		<card id="be71da12-86ba-497c-b684-52948e271602" name="Breached Oni">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Token" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="0" />
+			<property name="Focus" value="" />
+			<property name="Force" value="4" />
+			<property name="Chi" value="2" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="0" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="-" />
+			<property name="Text Box" value="Oni • Nonhuman • Shadowlands  May not be included in decks." />
+		</card>
+		<card id="be71da12-86ba-497c-b684-52948e271603" name="Charter">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Token" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="0" />
+			<property name="Focus" value="" />
+			<property name="Force" value="" />
+			<property name="Chi" value="" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="" />
+			<property name="Text Box" value="May not be included in decks. Bow: Produce 2 Gold." />
+		</card>
+		<card id="be71da12-86ba-497c-b684-52948e271604" name="Hired Samurai">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Token" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="0" />
+			<property name="Focus" value="" />
+			<property name="Force" value="3" />
+			<property name="Chi" value="3" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="2" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="-" />
+			<property name="Text Box" value="Samurai  May not be included in decks." />
+		</card>
+		<card id="be71da12-86ba-497c-b684-52948e271605" name="Kaxt">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Token" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="0" />
+			<property name="Focus" value="" />
+			<property name="Force" value="4" />
+			<property name="Chi" value="3" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="0" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="-" />
+			<property name="Text Box" value="Ninja  May not be included in decks. This card has your Clan alignment keyword." />
+		</card>
+		<card id="be71da12-86ba-497c-b684-52948e271606" name="Ki Podling">
+			<property name="Clan" value="" />
+			<property name="Card Type" value="Token" />
+			<property name="Strength of Province" value="" />
+			<property name="Gold Production" value="" />
+			<property name="Gold Cost" value="0" />
+			<property name="Focus" value="" />
+			<property name="Force" value="2" />
+			<property name="Chi" value="1" />
+			<property name="Starting Family Honor" value="" />
+			<property name="Personal Honor" value="0" />
+			<property name="Min Personal Honor of Personality" value="" />
+			<property name="Min Family Honor to Recruit" value="-" />
+			<property name="Text Box" value="Shadowlands • Podling • Oni • Nonhuman  May not be included in decks." />
+		</card>
+	</cards>
+</set>

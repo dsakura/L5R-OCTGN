@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="1e2d5eef-7039-48b1-9060-bf6222416a3e">
+  <section name="Fate Deck">
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148126">Goju House Guard</card>
+    <card qty="2" id="70544260-9ee4-4596-99f3-a4a33e148153">Ikiryo</card>
+    <card qty="3" id="70544260-9ee4-4596-99f3-a4a33e148405">Veteran Skirmishers</card>
+    <card qty="2" id="70544260-9ee4-4596-99f3-a4a33e148407">Village Guardian</card>
+    <card qty="3" id="70544260-9ee4-4596-99f3-a4a33e148207">Maga-yari</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148271">Ring of Earth</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148274">Ring of Water</card>
+    <card qty="2" id="658d1955-c22c-438d-b325-875e642fe014">Ascending the Ranks</card>
+    <card qty="3" id="70544260-9ee4-4596-99f3-a4a33e148035">Back to the Front</card>
+    <card qty="2" id="c4610da5-9d8d-4f74-ba5a-94639cab3020">Bow Before My Will</card>
+    <card qty="2" id="70544260-9ee4-4596-99f3-a4a33e148108">Face of Ninube</card>
+    <card qty="3" id="70544260-9ee4-4596-99f3-a4a33e148109">Fall Back!</card>
+    <card qty="2" id="70544260-9ee4-4596-99f3-a4a33e148161">Incapacitated</card>
+    <card qty="2" id="70544260-9ee4-4596-99f3-a4a33e148233">Murderous Intent</card>
+    <card qty="3" id="658d1955-c22c-438d-b325-875e642fe101">Revenge</card>
+    <card qty="2" id="70544260-9ee4-4596-99f3-a4a33e148328">Strength in Terror</card>
+    <card qty="3" id="70544260-9ee4-4596-99f3-a4a33e148372">The Strength of the Spider</card>
+    <card qty="3" id="70544260-9ee4-4596-99f3-a4a33e148406">Vigilant Eyes</card>
+  </section>
+  <section name="Dynasty Deck">
+    <card qty="3" id="c4610da5-9d8d-4f74-ba5a-94639cab3027">Daigotsu Bofana</card>
+    <card qty="3" id="70544260-9ee4-4596-99f3-a4a33e148082">Daigotsu Gyoken</card>
+    <card qty="3" id="70544260-9ee4-4596-99f3-a4a33e148083">Daigotsu Ishibashi</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148084">Daigotsu Kanpeki</card>
+    <card qty="3" id="70544260-9ee4-4596-99f3-a4a33e148085">Daigotsu Kendo</card>
+    <card qty="3" id="70544260-9ee4-4596-99f3-a4a33e148086">Daigotsu Matsuda</card>
+    <card qty="2" id="70544260-9ee4-4596-99f3-a4a33e148087">Daigotsu Misaki</card>
+    <card qty="3" id="70544260-9ee4-4596-99f3-a4a33e148088">Daigotsu Negishi</card>
+    <card qty="2" id="c4610da5-9d8d-4f74-ba5a-94639cab3029">Daigotsu Shikenuro</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148089">Daigotsu's Guidance</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148416">Wisdom Gained</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148013">Akodo's Grave</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148112">Family Library</card>
+    <card qty="3" id="70544260-9ee4-4596-99f3-a4a33e148202">Large Farm</card>
+    <card qty="3" id="70544260-9ee4-4596-99f3-a4a33e148312">Small Farm</card>
+    <card qty="3" id="70544260-9ee4-4596-99f3-a4a33e148259">Prosperous Village</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148260">Public Records</card>
+    <card qty="3" id="70544260-9ee4-4596-99f3-a4a33e148301">Shinomen Marsh</card>
+  </section>
+  <section name="Stronghold">
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148183">Keep of the Dead</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148326">Steel Soul Dojo</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148368">The Shadow's Lair</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148371">The Spider's Web</card>
+  </section>
+  <section name="Special Holdings">
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148037">Bamboo Harvesters</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148058">Border Keep</card>
+  </section>
+</deck>

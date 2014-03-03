@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="1e2d5eef-7039-48b1-9060-bf6222416a3e">
+  <section name="Fate Deck">
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148026">Asako House Guard</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148270">Ring of Air</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148271">Ring of Earth</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148274">Ring of Water</card>
+    <card qty="3" id="658d1955-c22c-438d-b325-875e642fe002">A Dragon's Favor</card>
+    <card qty="3" id="70544260-9ee4-4596-99f3-a4a33e148071">Cleansing the Path</card>
+    <card qty="3" id="70544260-9ee4-4596-99f3-a4a33e148072">Conflagration</card>
+    <card qty="3" id="658d1955-c22c-438d-b325-875e642fe043">Ember's Final Fire</card>
+    <card qty="3" id="70544260-9ee4-4596-99f3-a4a33e148281">Scouring Flood</card>
+    <card qty="3" id="70544260-9ee4-4596-99f3-a4a33e148358">The Kami's Blessing</card>
+    <card qty="2" id="70544260-9ee4-4596-99f3-a4a33e148035">Back to the Front</card>
+    <card qty="2" id="70544260-9ee4-4596-99f3-a4a33e148056">Block Supply Lines</card>
+    <card qty="2" id="70544260-9ee4-4596-99f3-a4a33e148108">Face of Ninube</card>
+    <card qty="3" id="70544260-9ee4-4596-99f3-a4a33e148109">Fall Back!</card>
+    <card qty="2" id="70544260-9ee4-4596-99f3-a4a33e148163">Inspired Devotion</card>
+    <card qty="2" id="70544260-9ee4-4596-99f3-a4a33e148283">Selfless Defense</card>
+    <card qty="3" id="70544260-9ee4-4596-99f3-a4a33e148356">The Honesty of the Phoenix</card>
+    <card qty="2" id="658d1955-c22c-438d-b325-875e642fe135">The Killing Grounds</card>
+  </section>
+  <section name="Dynasty Deck">
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148291">Shiba's Guidance</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148416">Wisdom Gained</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148013">Akodo's Grave</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148112">Family Library</card>
+    <card qty="3" id="70544260-9ee4-4596-99f3-a4a33e148202">Large Farm</card>
+    <card qty="3" id="70544260-9ee4-4596-99f3-a4a33e148312">Small Farm</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148260">Public Records</card>
+    <card qty="3" id="c4610da5-9d8d-4f74-ba5a-94639cab3100">Remote Village</card>
+    <card qty="3" id="70544260-9ee4-4596-99f3-a4a33e148311">Silver Mine</card>
+    <card qty="3" id="70544260-9ee4-4596-99f3-a4a33e148007">Agasha Ryo</card>
+    <card qty="3" id="70544260-9ee4-4596-99f3-a4a33e148168">Isawa Shunsuko</card>
+    <card qty="3" id="70544260-9ee4-4596-99f3-a4a33e148169">Isawa Tamaki</card>
+    <card qty="3" id="70544260-9ee4-4596-99f3-a4a33e148170">Isawa Tomohiro</card>
+    <card qty="3" id="658d1955-c22c-438d-b325-875e642fe077">Kunji</card>
+    <card qty="3" id="70544260-9ee4-4596-99f3-a4a33e148288">Shiba Kataken</card>
+    <card qty="2" id="658d1955-c22c-438d-b325-875e642fe111">Shiba Ryuba</card>
+    <card qty="2" id="70544260-9ee4-4596-99f3-a4a33e148289">Shiba Sansesuke</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148290">Shiba Tsukimi</card>
+  </section>
+  <section name="Stronghold">
+    <card qty="1" id="658d1955-c22c-438d-b325-875e642fe131">Temple of Purity</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148205">Library of Rebirth</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148303">Shiro Shiba</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148343">Temple of Purity</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148412">Waystation of the Path</card>
+  </section>
+  <section name="Special Holdings">
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148037">Bamboo Harvesters</card>
+    <card qty="1" id="70544260-9ee4-4596-99f3-a4a33e148058">Border Keep</card>
+  </section>
+</deck>
